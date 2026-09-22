@@ -1,0 +1,16 @@
+{
+  "name": "skill-human-prose",
+  "owner": {
+    "name": "Qiaeru"
+  },
+  "metadata": {
+    "description": "Marketplace for the writing-human-prose plugin: a skill that removes AI tells from English and French prose."
+  },
+  "plugins": [
+    {
+      "name": "writing-human-prose",
+      "source": "./",
+      "description": "Remove AI writing tells from English or French prose, or flag them without rewriting. Use whenever US-English or French text is drafted, edited, or reviewed, even unnamed, including UI strings and locale files, and when asked if a text sounds AI-written."
+    }
+  ]
+}

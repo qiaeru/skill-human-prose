@@ -1,0 +1,34 @@
+# The repo has no build and no tests by design, so this validation is the
+# only net: repo invariants first (local script, fast), markdown hygiene
+# next, plugin manifests last. npx pulls the latest Claude Code CLI, so a
+# regression on the CLI side can turn the job red without a repo change,
+# which is wanted; the weekly schedule catches it between pushes.
+name: Validation
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  schedule:
+    - cron: '0 8 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v7
+      - name: Check repo invariants
+        run: node .github/scripts/validate.mjs
+      - name: Check markdown hygiene
+        run: npx -y markdownlint-cli2
+      - name: Validate the plugin manifests
+        run: npx -y @anthropic-ai/claude-code plugin validate .

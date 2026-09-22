@@ -1,0 +1,7 @@
+// Eval prompts and grading criteria are plain text under a frontmatter,
+// with no top-level heading.
+{
+  "config": {
+    "MD041": false
+  }
+}

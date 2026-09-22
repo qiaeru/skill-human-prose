@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "writing-human-prose",
+  "description": "Remove AI writing tells from English or French prose, or flag them without rewriting. Use whenever US-English or French text is drafted, edited, or reviewed, even unnamed, including UI strings and locale files, and when asked if a text sounds AI-written.",
+  "keywords": ["writing", "prose", "english", "french", "editing", "ai-tells", "ai-slop", "skill"],
+  "version": "1.0.0",
+  "author": {
+    "name": "Qiaeru"
+  },
+  "homepage": "https://github.com/qiaeru/skill-human-prose",
+  "repository": "https://github.com/qiaeru/skill-human-prose",
+  "license": "MIT"
+}
