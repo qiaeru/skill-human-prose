@@ -80,6 +80,8 @@ Si l'adjectif peut sauter sans changer le sens, il saute.
 - remarquable
 - emblématique
 - pivot
+- performant, sans dire sur quoi ni combien
+- innovant
 
 ## Anglicismes IA
 
@@ -386,7 +388,7 @@ Voir l'exemple 34 de [exemples.md](exemples.md).
 
 ## Objections fantômes
 
-Le texte répond à une objection ou écarte une option que personne n'a soulevées, et plusieurs rejets sans rapport à la suite trahissent la machine plus sûrement qu'un seul. Coupe la défense, énonce l'affirmation qu'elle abrite, et garde seulement l'objection que le texte attribue et réfute, ou l'option qu'un lecteur pèserait vraiment.
+Le texte répond à une objection ou écarte une option que personne n'a soulevées, et plusieurs rejets sans rapport à la suite trahissent la machine plus sûrement qu'un seul. Coupe la défense, énonce l'affirmation qu'elle abrite, et garde seulement l'objection que le texte attribue et réfute, ou l'option qu'un lecteur pèserait vraiment. En cas de doute, demande-toi à quoi répond la phrase, et coupe-la si tu peux nommer la version antérieure, l'échange ou la retouche qu'elle vise plutôt que l'information qu'elle apporte au lecteur.
 
 - « Je ne dis pas que »
 - « Il ne s'agit pas ici de »
@@ -516,7 +518,7 @@ Quatre familles de résidus d'assistant, propres aux textes générés, se coupe
 - « à la date de ma dernière mise à jour »
 - « jusqu'à ma date de connaissance »
 
-**Aveu de lacune suivi d'une conjecture.** Le texte avoue un manque de source, puis le comble par une supposition plausible. Dis ce que les sources ne montrent pas, ou coupe, sans jamais présenter une conjecture comme un fait.
+**Aveu de lacune suivi d'une conjecture.** Le texte avoue un manque de source, puis le comble par une supposition plausible. Coupe la conjecture, et l'aveu avec elle sauf si le lecteur doit connaître la lacune, auquel cas une phrase plate la constate, puis signale le manque à l'auteur. Ne présente jamais une conjecture comme un fait.
 
 - « bien que les détails restent peu documentés »
 - « d'après les informations disponibles »

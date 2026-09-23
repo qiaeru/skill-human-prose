@@ -44,7 +44,7 @@ The quick checks below are the working list; each rule here gives the principle,
 
 15. **Vary everything that repeats.** That covers sentence lengths, openers, paragraph endings, item counts in lists, and the paragraph mold. The counterweight: the thing under discussion keeps its name, since rotating synonyms for one referent makes the reader count several. See [structures.md](structures.md).
 
-16. **Follow US conventions.** Use the serial comma ("A, B, and C"), US spellings ("color," "organize," "toward"), and double quotation marks with commas and periods inside, and keep common nouns lowercase mid-sentence ("our marketing team").
+16. **Follow US conventions.** Use the serial comma ("A, B, and C"), US spellings ("color," "organize," "toward"), and double quotation marks with commas and periods inside, and keep common nouns lowercase mid-sentence ("our marketing team"). A text written in British, Canadian, or Australian English keeps its own spelling, punctuation, and quotation marks; every other rule applies unchanged.
 
 17. **Prefer verbs to nominalizations, and cut wordy connectors.** "Decide" beats "make a decision," "to" beats "in order to," and a real subject beats "There is/There are." See [phrases.md](phrases.md).
 
@@ -52,7 +52,7 @@ The quick checks below are the working list; each rule here gives the principle,
 
 ## Weighing in English
 
-Three kinds of tell count on a single instance, wherever they appear: the em dash, the loud tier of the AI vocabulary in [phrases.md](phrases.md), and unmistakable model residue, meaning self-reference as an AI ("As an AI language model," a knowledge-cutoff disclaimer), a trailing offer ("Want me to expand this?"), process narration pasted with the deliverable ("I've analyzed your requirements"), and a chat sign-off ("I hope this helps"). Convention slips are objective errors fixed even alone: a British spelling in US text, Title Case on a common noun mid-sentence, a hyphen kept on a compound after its noun. Everything else counts only in a cluster, including the borderline vocabulary tier, wordy constructions, email boilerplate, and service formulas ("Feel free to," "Certainly!", "Great question"), which people write too. In a first-person draft, a spoken "just," "honestly," or "actually" is voice: thin a cluster and keep the one that sounds like the writer.
+A few tells count on a single instance, wherever they appear: the em dash, the loud tier of the AI vocabulary in [phrases.md](phrases.md), the not-X-but-Y contrast in any of its forms, the staged line (a one-line closer or kicker, a pull-quote aphorism, a run of ad-copy fragments), an objection nobody raised, meta-commentary, and unmistakable model residue, meaning self-reference as an AI ("As an AI language model," a knowledge-cutoff disclaimer), a trailing offer ("Want me to expand this?"), process narration pasted with the deliverable ("I've analyzed your requirements"), and a chat sign-off ("I hope this helps"). Convention slips are objective errors fixed even alone: a British spelling in US text, Title Case on a common noun mid-sentence, a hyphen kept on a compound after its noun. Everything else counts only in a cluster, including the borderline vocabulary tier, wordy constructions, email boilerplate, and service formulas ("Feel free to," "Certainly!", "Great question"), which people write too. In a first-person draft, a spoken "just," "honestly," or "actually" is voice: thin a cluster and keep the one that sounds like the writer.
 
 ## Quick checks
 
@@ -63,7 +63,8 @@ Run each group before delivering. The list binds like the core rules, since it a
 - Number, cause, contrast, actor, or example that the source doesn't contain, including a "but" or "so" laid between two facts it only set side by side? Remove it, or flag the gap to the author.
 - Text noticeably longer than the original, or a claim shifted by the rewrite? Tighten and restore.
 - Specific detail smoothed into a generic claim ("cut review time from thirty minutes to eight" turned into "improved productivity")? Restore the number or the name.
-- Gap filled with a guess ("likely grew up in," "appears to have been founded in the 1990s") or a knowledge disclaimer ("details are limited," "based on available information")? Cut the guess and the disclaimer, and flag the gap to the author.
+- Scope or ranking word of the source ("only," "first," "most," "both," "at once") dropped or shifted while reshaping a sentence? Restore it; a change of form never changes the reach of the claim.
+- Gap filled with a guess ("likely grew up in," "appears to have been founded in the 1990s") or a knowledge disclaimer ("details are limited," "based on available information")? Cut the guess, and the disclaimer with it unless the reader needs to know the gap; flag the gap to the author.
 - Unnamed authority ("experts agree," "observers note," "industry reports") or a list of outlets propping up a claim? Use the source the text names and what it said; otherwise cut.
 
 ### Flow and rhythm
@@ -86,6 +87,7 @@ Run each group before delivering. The list binds like the core rules, since it a
 - Loud-tier AI vocabulary ("delve," "leverage," "seamless," "tapestry," "unlock," "harness," "empower")? Replace with the plain word on sight.
 - Borderline-tier word clustering ("robust," "comprehensive," "navigate," "utilize," "ensure," "key" several times in one passage)? Thin the cluster; leave a lone instance alone.
 - Redefinition verb ("reimagine," "reinvent," "revolutionize," "transform" with nothing named)? Name what changes, or leave it to the author.
+- Hyphenated compounds stacked on one noun ("an industry-leading, context-aware, best-in-class platform")? Keep the compound that names a real property; cut the rest or name what they stood for.
 - Pleonasm ("advance planning," "end result," "collaborate together," "each and every")? Cut the redundant half.
 - Copula dodge ("serves as," "functions as," "boasts") standing in for "is" or "has"? Use the short verb; keep a verb that states an accurate relation ("the API offers a sync mode").
 - "Moreover," "Furthermore," "Additionally" opening sentences? At most one connector opener per paragraph; usually just start the sentence.

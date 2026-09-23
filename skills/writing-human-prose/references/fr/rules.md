@@ -81,6 +81,7 @@ Passe chaque famille avant de livrer. La liste compte autant que les règles cen
 - Chiffre, cause, opposition, acteur ou exemple absent de la source, y compris un « mais » ou un « donc » entre deux faits juxtaposés ? Retire-le, ou signale le flou à l'auteur.
 - Texte nettement plus long que l'original, ou sens déplacé ? Resserre et rétablis.
 - Détail précis lissé en généralité (« de trente à huit minutes » devenu « un gain de productivité ») ? Rétablis le chiffre ou le nom.
+- Mot de portée de la source (« seul », « premier », « la plupart », « tous les deux », « à la fois ») perdu ou déplacé en remaniant la phrase ? Rétablis-le, puisqu'un changement de forme ne change jamais la portée de l'affirmation.
 - Documentation qui décrit ce que le texte remplace au lieu de ce qu'il fait ? Décris le comportement actuel, et laisse l'ancienne version au journal des modifications.
 
 ### Architecture de la phrase
@@ -158,7 +159,7 @@ Passe chaque famille avant de livrer. La liste compte autant que les règles cen
 - Ouverture flagorneuse ou accord réflexe (« Excellente question ») ? Coupe et entre dans le propos.
 - Formule de service d'assistant (« En espérant que cela vous aide », « Souhaitez-vous que je développe ? ») ? Coupe, en gardant la courtoisie attendue d'un courriel professionnel (« Je reste à votre disposition »).
 - Mention résiduelle de modèle (« En tant que modèle de langage ») ? Supprime sans reformuler.
-- Aveu de lacune suivi d'une conjecture (« il semblerait que », « elle a probablement grandi ») ? Dis ce que les sources ne montrent pas, ou coupe.
+- Aveu de lacune suivi d'une conjecture (« il semblerait que », « elle a probablement grandi ») ? Coupe la conjecture, et l'aveu avec elle sauf si le lecteur doit connaître la lacune, puis signale le manque à l'auteur.
 
 ## Tics qui résistent à la réécriture
 

@@ -96,7 +96,7 @@ La source annonce des raisons sans les donner, alors la réécriture garde la se
 
 **Avant.** L'utilisateur se voit proposer plusieurs options, lui permettant de personnaliser son expérience.
 
-**Après.** L'utilisateur choisit parmi plusieurs options pour adapter l'outil à son usage.
+**Après.** L'utilisateur choisit parmi plusieurs options pour personnaliser son expérience.
 
 ## 15. Clôture clichée
 
@@ -146,7 +146,9 @@ Les puces forment un raisonnement, deux constats et la conséquence que la sourc
 
 **Avant.** Cette solution permet d'optimiser le processus. La solution s'adapte aux besoins. La solution est simple à déployer. La solution garantit un bon retour sur investissement.
 
-**Après.** Cette approche améliore le processus, s'adapte aux besoins, se déploie simplement et garantit un bon retour sur investissement.
+**Après.** Cette solution améliore le processus, s'adapte aux besoins, se déploie simplement et garantit un bon retour sur investissement.
+
+Les quatre phrases fusionnent sous un seul sujet, qui garde son nom au lieu de devenir « approche » ou « outil ».
 
 ## 21. Construction interrogative familière
 
@@ -228,9 +230,9 @@ La source ne nomme ni les trésors ni le patrimoine, alors la réécriture s'en 
 
 **Avant.** Bien que les détails sur la fondation de l'entreprise restent peu documentés, elle semble avoir vu le jour dans les années 1990. La fondatrice, discrète sur sa vie privée, a probablement grandi dans un milieu enseignant, ce qui expliquerait son intérêt pour l'éducation.
 
-**Après.** Les sources consultées ne datent pas la fondation de l'entreprise et ne disent rien de la jeunesse de la fondatrice.
+**Après.** La fondation de l'entreprise reste peu documentée.
 
-Les deux conjectures tombent, et la phrase qui reste peut elle-même disparaître si le texte n'a pas besoin de signaler la lacune.
+Les deux conjectures tombent sans être remplacées. La phrase qui reste peut elle-même disparaître si le lecteur n'a pas besoin de connaître la lacune, et la jeunesse de la fondatrice, dont la source ne dit rien de sûr, va à l'auteur dans la note de livraison.
 
 ## 33. Fausse révélation
 

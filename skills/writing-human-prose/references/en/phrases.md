@@ -385,7 +385,7 @@ Service formulas count only in a cluster, since people write them too in an emai
 - "Feel free to"
 - "Happy to elaborate"
 
-The knowledge-gap guess goes one step further: the text admits it found no source ("while specific details are limited," "based on available information," "not widely documented," "maintains a low profile"), then fills the gap with a plausible guess ("likely grew up in," "appears to have been founded in the 1990s"). Cut the disclaimer and the guess, and flag the gap to the author.
+The knowledge-gap guess goes one step further: the text admits it found no source ("while specific details are limited," "based on available information," "not widely documented," "maintains a low profile"), then fills the gap with a plausible guess ("likely grew up in," "appears to have been founded in the 1990s"). Cut the guess, and the disclaimer with it unless the reader needs to know the gap, then flag the gap to the author.
 
 ## Meta-Commentary
 

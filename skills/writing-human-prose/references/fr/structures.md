@@ -225,20 +225,18 @@ La solution est rapide, fiable et simple à prendre en main.
 
 Le français écrit accepte mal la répétition à courte distance, que l'IA pratique d'une phrase à l'autre, voire dans la même phrase.
 
-### Variantes lexicales utiles
+### Mot passe-partout et mot juste
 
-| Mot répété | Synonymes selon contexte |
+Le verbe ou l'adjectif passe-partout répété cède la place au mot précis que le contexte appelle, jamais à un synonyme aussi vague que lui.
+
+| Mot répété | Mot précis selon le contexte |
 | --- | --- |
-| solution | approche, méthode, dispositif, outil, démarche |
-| montrer | illustrer, révéler, mettre en évidence, signaler |
-| utiliser | recourir à, employer, mobiliser, exploiter, se servir de |
-| faire | mener, accomplir, mettre en œuvre |
-| permettre | rendre possible, autoriser |
-| problème | difficulté, obstacle, écueil, point bloquant |
-| important | lourd de conséquences, sérieux, élevé pour une quantité |
-| montrer que | démontrer que, indiquer que, établir que |
+| faire | mener, accomplir, ou le verbe du geste réel (écrire, livrer, corriger) |
+| montrer, montrer que | révéler, indiquer, établir que, démontrer que |
+| permettre | rendre possible, autoriser, ou le verbe direct |
+| important | sérieux, lourd de conséquences, élevé pour une quantité |
 
-Ces synonymes ne remplacent qu'un mot passe-partout. Un agent, un fichier, une base ou un service gardent leur nom d'un bout à l'autre, comme dans l'exemple 35 de [exemples.md](exemples.md). Le mot juste se répète, et la même exigence de cohérence vaut pour les libellés d'interface, où elle prime sur toute variété.
+Le nom de la chose dont parle le texte, lui, ne tourne pas. Un agent, un fichier, une base ou un service gardent leur nom d'un bout à l'autre, comme dans l'exemple 35 de [exemples.md](exemples.md), et un « solution » répété se réduit en fusionnant les phrases ou en passant par un pronom, comme dans l'exemple 20, plutôt qu'en le relayant par « approche », « outil » ou « dispositif ». Le mot juste se répète, et la même exigence de cohérence vaut pour les libellés d'interface, où elle prime sur toute variété.
 
 L'autre forme de répétition est syntaxique. Trois phrases qui commencent par le même mot (« Cette solution... Cette solution... Cette solution... ») ou par la même structure (« On voit que..., On note que..., On observe que... ») sonnent comme une copie automatique. Varie l'attaque, déplace un complément en tête, alterne phrase simple et phrase complexe.
 

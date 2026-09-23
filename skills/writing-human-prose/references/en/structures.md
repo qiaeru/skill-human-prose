@@ -164,7 +164,7 @@ The text answers an objection or rejects an option that appears nowhere else, us
 | "Some might say... but" / "You might think... but" | Straw objection, then the point |
 | "A tempting approach would be" / "One might be tempted to" / "It would be easy to just" | Rejects an option no reader was weighing |
 
-**Instead:** Cut the defense and state the claim it was guarding. Keep an objection the text attributes to someone or answers in full, and keep an alternative a reader would actually weigh. Several unrelated rejections in a row are a stronger sign than one.
+**Instead:** Cut the defense and state the claim it was guarding. Keep an objection the text attributes to someone or answers in full, and keep an alternative a reader would actually weigh. Several unrelated rejections in a row are a stronger sign than one. When in doubt, ask what the sentence answers: if you can name an earlier draft, turn, or edit it replies to, rather than information it gives the reader, cut it.
 
 ## Learned Litotes
 
@@ -359,5 +359,6 @@ Paragraph length and shape sit under Paragraph Template, and the same conjunctio
 | Pattern | Problem |
 | --- | --- |
 | A sweeping "always," "never," "everyone," or "nobody" the text can't back | Overclaims; narrow it to what the text supports. A literal "every" ("every request is logged") states a fact and stays |
+| Hyphenated compounds stacked on one noun ("an industry-leading, context-aware, best-in-class platform") | Brochure density; keep the compound that names a real property, and cut the rest or name what they stood for |
 | Same noun four times in five sentences | Restructure so the noun comes up less often (a pronoun, a merged sentence); don't rotate synonyms |
 | Synonym cycling: one referent under rotating names ("the agent reviews the draft, the assistant scores it, the tool suggests fixes") | Elegant variation reads as three things; keep the clear word and repeat it |
