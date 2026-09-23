@@ -197,6 +197,58 @@ for (const file of proseFiles.filter((f) => f.includes(`${path.sep}references${p
   }
 }
 
+// 3c. Numbered cross-references ("rule 9", "règles 13, 14 et 20",
+// "exemple 40", and the bare "(12)" of the interface files) point to a core
+// rule or an example by position, so inserting one renumbers the rest in
+// silence. Each cited number must exist in the rules.md or the examples
+// file of the same language.
+const numbersIn = (file, pattern) => {
+  const found = new Set();
+  if (!file || !existsSync(file)) return found;
+  for (const line of read(file).split(/\r?\n/)) {
+    const m = line.match(pattern);
+    if (m) found.add(Number(m[1]));
+  }
+  return found;
+};
+const NUMBER_LIST = String.raw`(\d+(?:(?:\s*,\s*|\s+(?:and|et)\s+)\d+)*)`;
+const RULE_REF = new RegExp(String.raw`\b(?:rules?|règles?)\s+` + NUMBER_LIST, 'giu');
+const EXAMPLE_REF = new RegExp(String.raw`\b(?:examples?|exemples?)\s+` + NUMBER_LIST, 'giu');
+const BARE_REF = /\((\d{1,2})(?=[,)])/g;
+for (const file of proseFiles.filter((f) => f.includes(`${path.sep}references${path.sep}`))) {
+  const dir = path.dirname(file);
+  const rules = numbersIn(path.join(dir, 'rules.md'), /^(\d+)\. \*\*/);
+  const exampleFile = ['examples.md', 'exemples.md'].map((f) => path.join(dir, f)).find((f) => existsSync(f));
+  const examples = numbersIn(exampleFile, /^## (?:Example )?(\d+)[.:]/);
+  const bare = /(?:ui-strings|interfaces)\.md$/.test(file);
+  read(file).split(/\r?\n/).forEach((line, i) => {
+    const check = (pattern, known, kind) => {
+      for (const m of line.matchAll(pattern)) {
+        for (const n of m[1].match(/\d+/g)) {
+          if (!known.has(Number(n))) report(file, i + 1, `${kind} ${n} cited, but no such ${kind} exists`);
+        }
+      }
+    };
+    check(RULE_REF, rules, 'rule');
+    check(EXAMPLE_REF, examples, 'example');
+    if (bare) check(BARE_REF, rules, 'rule');
+  });
+}
+
+// 3d. SKILL.md and the rules.md of the text's language load on every
+// trigger, so their size is paid on each use. A cap turns growth into a
+// decision instead of a drift.
+const ALWAYS_LOADED = [
+  [/SKILL\.md$/, 12000],
+  [/rules\.md$/, 24000],
+];
+for (const file of proseFiles) {
+  const cap = ALWAYS_LOADED.find(([pattern]) => pattern.test(file))?.[1];
+  if (!cap) continue;
+  const size = [...read(file)].length;
+  if (size > cap) report(file, null, `${size} characters, over the ${cap} budget of a file loaded on every trigger`);
+}
+
 // 4. The plugin version tracks the latest released CHANGELOG version (the
 // agreement a manual release lets drift first), and the plugin name still
 // matches a skill folder.
@@ -241,4 +293,4 @@ if (errors.length > 0) {
   for (const e of errors) console.error(`  ${e}`);
   process.exit(1);
 }
-console.log(`Invariants checked on ${proseFiles.length} files: frontmatter, links, typography, mentions, contents, version, descriptions.`);
+console.log(`Invariants checked on ${proseFiles.length} files: frontmatter, links, typography, mentions, contents, cross-references, budget, version, descriptions.`);
