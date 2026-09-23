@@ -60,7 +60,7 @@ skill-human-prose/
 
 The repository doubles as a Claude Code plugin named `writing-human-prose` and as its own plugin marketplace: `plugin.json` describes the plugin (the whole repository, with the skill under `skills/`), and `marketplace.json` lists it so Claude Code can install and update it straight from GitHub.
 
-On every push, every pull request, and once a week, the [validate.yml](.github/workflows/validate.yml) workflow checks the manifests (`plugin validate`), markdown hygiene (`markdownlint-cli2`), and the repository invariants in [validate.mjs](.github/scripts/validate.mjs): the skill frontmatter, relative links confined to the installable folder, the em dash anywhere, the loud AI vocabulary in English prose, French typography and a few French tells in the French references, contents lists aligned with their titles, and the plugin version and descriptions aligned with the skill, the marketplace, and the latest release. [normalize.mjs](.github/scripts/normalize.mjs) restores the French no-break spaces on the markdown files passed to it, since editing tools tend to flatten them.
+On every push, every pull request, and once a week, the [validate.yml](.github/workflows/validate.yml) workflow checks the manifests (`plugin validate`), markdown hygiene (`markdownlint-cli2`), and the repository invariants in [validate.mjs](.github/scripts/validate.mjs): the skill frontmatter, relative links confined to the installable folder, the em dash anywhere, the loud AI vocabulary in English prose, French typography and a few French tells in the French references, contents lists aligned with their titles, numbered references to rules and examples that still exist, a size budget on the files loaded at every trigger, and the plugin version and descriptions aligned with the skill, the marketplace, and the latest release. [normalize.mjs](.github/scripts/normalize.mjs) restores the French no-break spaces on the markdown files passed to it, since editing tools tend to flatten them.
 
 ## Installation
 
@@ -85,7 +85,8 @@ Copy the [skills/writing-human-prose/](skills/writing-human-prose/) folder into 
 
 The skill triggers whenever you ask Claude to draft, edit, or review English or French text, including interface strings and locale files; Claude recognizes the request from the skill's `description`. You can also invoke it by name for a full pass (`/writing-human-prose:writing-human-prose`), which forces a rule-by-rule review against the reference catalogs.
 
-- Paste a few paragraphs of your own writing along with the text, and the skill matches that sample's register and keeps its habits, removing only the single-instance tells.
+- Paste a few paragraphs of your own writing along with the text, and the skill matches that sample's register and keeps its habits, removing only the single-instance tells; when the sample itself uses one (an em dash, say), the note says so in one line and you can put it back.
+- Ask it to draft a text, and it delivers the text alone, with one line only if the request leaves out a fact the text needs.
 - Point it at a file, and it rewrites only the prose, leaving code, frontmatter, and link targets untouched. Called from another task (a commit message, a pull request description), it returns the final text alone.
 - Ask whether a text reads as AI-written, or to flag its tells without touching it, and it returns an audit: a numbered list of tells, each quoted, named, paired with a fix in a few words, and marked high or low priority, with no rewrite and no guess about who wrote it. You then pick the numbers to fix.
 
@@ -105,7 +106,7 @@ If the skill is active, Claude rewrites the paragraph as connected sentences (by
 
 ## Evaluations
 
-The [evals/](evals/) folder holds twelve cases for `claude plugin eval`, six per language, one per regime of the skill: the quick-test paragraph, an audit with no rewrite, a review request that doesn't name the skill, a locale file, a casual blog post, and a clean paragraph that should come back nearly untouched. A judge model grades each response against written criteria, and the trigger cases also check that the skill was loaded. Run them after changing the skill to catch a regression:
+The [evals/](evals/) folder holds sixteen cases for `claude plugin eval`. Seven run in each language, one per regime of the skill: the quick-test paragraph, an audit with no rewrite, a review request that doesn't name the skill, a drafting request that doesn't name it either, a locale file, a casual blog post, and a clean paragraph that should come back nearly untouched. Two more run in English only: a writing sample that conflicts with a rule the skill still enforces, and a paragraph in a language the skill doesn't cover. A judge model grades each response against written criteria, and the trigger cases also check that the skill was loaded. Run them after changing the skill to catch a regression:
 
 ```text
 npx -y @anthropic-ai/claude-code plugin eval . --runs 1 --ablation none --no-publish
@@ -115,7 +116,7 @@ Add `--case 'en-*'` or `--case 'fr-*'` to run one language. The command reuses C
 
 ## Limits
 
-- The skill covers US English and French. For another language, it says so rather than transpose one of its rule sets.
+- The skill covers US English and French. A text in British, Canadian, or Australian English keeps its own spelling and punctuation under the same rules. For another language, it says so rather than transpose one of its rule sets.
 - It is not a grammar or spell checker (for French, a dedicated tool such as Antidote or LanguageTool stays necessary), and it does not verify facts or arguments. It judges form: phrasing, structure, rhythm, typography.
 - Its default register is plain American magazine prose in English and « soutenu courant » in French, and a text that holds its own register (a casual post, an internal note) keeps it. It deliberately skips fiction, poetry, lyrics, legal text, standardized administrative text, and direct quotes; the author keeps the final say.
 
