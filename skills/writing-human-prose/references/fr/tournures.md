@@ -383,6 +383,7 @@ Le texte dit au lecteur quoi remarquer ou quel poids donner à ce qu'il lit, au 
 - « Il est important de souligner que », « Il faut bien comprendre que »
 - « Retenez bien ceci »
 - « Autrement dit », « En d'autres termes », lorsqu'ils annoncent une redite et non une reformulation qui précise
+- La phrase qui dit ce qu'un exemple, une scène ou un chiffre vient de montrer (« Preuve que le calendrier compte », « Le message est clair : »), sauf si elle en tire une conséquence que l'exemple ne montre pas
 
 Voir l'exemple 34 de [exemples.md](exemples.md).
 

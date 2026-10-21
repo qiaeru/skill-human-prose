@@ -21,6 +21,8 @@ Sommaire, une section par famille, à retrouver par son titre :
 - Répétitions lexicales et syntaxiques
 - Constructions interrogatives et excès du « que »
 - « On », « l'on », « nous »
+- Texte qui parle de lui-même
+- Contexte déjà connu réexpliqué
 
 ## Phrases courtes à la chaîne (calque anglo-saxon)
 
@@ -273,3 +275,28 @@ Lorsque trois « que » s'enchaînent dans la même phrase, remplace-en au m
 ## « On », « l'on », « nous »
 
 En registre soutenu courant, « on » reste valide pour désigner un sujet indéfini. Préfère « l'on » après « et », « ou », « où », « que » et « si » pour éviter le hiatus (« et l'on voit que », plutôt que « et on voit que »). Pour un « nous » d'auteur explicite, utilise « nous » et accorde en conséquence (« nous avons constaté »).
+
+## Texte qui parle de lui-même
+
+Le texte raconte son histoire, sa fabrication ou sa mise en page au lieu de parler de son sujet. Le récit de la méthode convient à n'importe quelle réponse, ce qui explique que le modèle y recoure, alors que le lecteur n'attend que le résultat.
+
+| Tournure | Correction |
+| --- | --- |
+| Ce que le texte remplace (« Cette fonction remplace l'ancienne boucle ») | Décris le comportement actuel, et laisse l'historique au journal des modifications, aux notes de version et aux guides de migration |
+| La façon dont il a été compilé ou vérifié (« Les montants proviennent des grilles publiées par chaque fournisseur, et ceux que nous n'avons pas pu confirmer sont signalés ») | Donne le résultat, en gardant la source que le lecteur peut suivre et la réserve qui change ce qu'il fait |
+| Une mise en page que le lecteur voit déjà (« Le tableau ci-dessous compare », « Cette section est organisée par équipe ») | Coupe, et n'énonce une convention qu'une fois, seulement si le lecteur ne peut pas la deviner |
+
+Une ligne qui présente la page reste ordinaire, alors que le tic est le texte qui se commente à mesure qu'il avance, comme le montre l'exemple 41 de [exemples.md](exemples.md).
+
+## Contexte déjà connu réexpliqué
+
+Le modèle écrit pour un lecteur qui ne partage aucun contexte, puisque ce lecteur convient à tous les cas. Dans un fil de discussion, pourtant, le lecteur connaît déjà le problème, si bien que reprendre le diagnostic enterre la réponse, et comme chaque phrase passe isolément, le tic survit à une correction ligne à ligne.
+
+| Tournure | Correction |
+| --- | --- |
+| Réponse qui reformule le problème de l'autre avant d'y répondre | Ouvre sur la réponse ou la décision |
+| Diagnostic, preuves ou requête déroulés pour montrer que le plan tiendra | Ne garde que ce qui changerait l'accord du lecteur, coupe la preuve d'un point qu'il a lui-même soulevé et renvoie la démonstration au ticket ou au document qui suivra |
+| Contexte que le lecteur a lui-même écrit ou déjà validé | Coupe |
+| Décision reléguée à la dernière ligne | Remonte-la en tête |
+
+N'applique ce patron que si le fil est visible ou si le texte est à l'évidence une réponse, puisqu'un document autonome doit encore son contexte au lecteur. Alléger le contexte ne coupe jamais le lien, l'échéance ou le chiffre dont le lecteur a besoin pour agir, comme le montre l'exemple 42 de [exemples.md](exemples.md).

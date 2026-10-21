@@ -18,7 +18,7 @@ Sommaire, une section par famille, à retrouver par son titre :
 
 ## Ponctuation et mise en forme à manier avec précaution
 
-- **Tiret cadratin (—).** L'IA l'utilise comme virgule ou comme deux-points à l'anglo-saxonne. Préfère les virgules (« Pierre, qui sait, est venu »), un point ou des parenthèses, sans mettre à sa place un deux-points, des points de suspension ou une phrase tordue.
+- **Tiret cadratin (—).** L'IA l'utilise comme virgule ou comme deux-points à l'anglo-saxonne. Préfère les virgules (« Pierre, qui sait, est venu »), un point ou des parenthèses, sans mettre à sa place un deux-points, des points de suspension ou une phrase tordue. Le demi-cadratin (–), que la typographie française admet pour l'incise, et le double trait d'union (`--`) se corrigent de la même façon lorsqu'ils tiennent ce rôle, puisque le tic est l'incise ou l'annonce au tiret et non la largeur du trait, alors que le demi-cadratin d'un intervalle (2020–2024) reste.
 - **Deux-points (`:`).** Il est légitime devant une liste ou une vraie explication, mais l'IA en abuse pour présenter, annoncer ou définir. Coupe l'annonce creuse en reformulant par une virgule, un point ou une subordonnée.
 - **Point-virgule (`;`).** Il a deux emplois légitimes, équilibrer deux propositions indépendantes mais liées (« Pierre travaille ; Marie se repose ») et séparer les items d'une liste verticale ou d'une énumération déjà chargée de virgules. Ailleurs, l'IA le place par réflexe là où la prose française attend la virgule pour articuler et le point pour clore, alors coupe par un point ou relie par une subordonnée.
 - **Point d'exclamation (`!`).** L'IA le sème pour vendre son enthousiasme (« C'est parti ! », « Bonne nouvelle ! »). Réserve-le aux vraies exclamations, rares en registre soutenu.
@@ -96,7 +96,7 @@ Ne capitalise pas non plus les noms communs en cours de phrase par déférence a
 
 ## Titres formulaïques à deux-points
 
-Le titre en deux volets séparés par un deux-points (« X : le guide complet », « Télétravail : pourquoi tout change ») est une signature des titres web que ce _skill_ écarte. Reforme un titre plein (« Le guide complet de X », « Pourquoi le télétravail change tout »), et réserve le deux-points de titre au vrai sous-titre d'ouvrage ou à la numérotation d'une collection.
+Le titre en deux volets séparés par un deux-points (« X : le guide complet », « Télétravail : pourquoi tout change ») est une signature des titres web que ce _skill_ écarte. Reforme un titre plein (« Le guide complet de X », « Pourquoi le télétravail change tout »), et réserve le deux-points de titre au vrai sous-titre d'ouvrage ou à la numérotation d'une collection. Le titre écrit pour l'effet (« La décision, en un écran ») relève du même réflexe, et cède la place à un titre qui nomme ce que contient la section (« Comparaison des six options »).
 
 ## Sigles et acronymes
 

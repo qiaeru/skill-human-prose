@@ -34,7 +34,7 @@ The quick checks below are the working list; each rule here gives the principle,
 
 10. **Kill meta-commentary.** Signposting, self-narration, and permission-granting go; enter the point directly.
 
-11. **No typographic crutches.** Replace an em dash with a comma, a period, or parentheses, never with a colon, an ellipsis, or a contorted sentence. Bold, caps, emoji, and markup don't do the work the sentence should do. See [structures.md](structures.md).
+11. **No typographic crutches.** Replace an em dash, or the spaced en dash or double hyphen standing in for one, with a comma, a period, or parentheses, never with a colon, an ellipsis, or a contorted sentence. Bold, caps, emoji, and markup don't do the work the sentence should do. See [structures.md](structures.md).
 
 12. **Don't answer your own rhetorical questions.** "The result? Faster builds." becomes "Builds got faster."
 
@@ -52,7 +52,7 @@ The quick checks below are the working list; each rule here gives the principle,
 
 ## Weighing in English
 
-A few tells count on a single instance, wherever they appear: the em dash, the loud tier of the AI vocabulary in [phrases.md](phrases.md), the not-X-but-Y contrast in any of its forms, the staged line (a one-line closer or kicker, a pull-quote aphorism, a run of ad-copy fragments), an objection nobody raised, meta-commentary, and unmistakable model residue, meaning self-reference as an AI ("As an AI language model," a knowledge-cutoff disclaimer), a trailing offer ("Want me to expand this?"), process narration pasted with the deliverable ("I've analyzed your requirements"), and a chat sign-off ("I hope this helps"). Convention slips are objective errors fixed even alone: a British spelling in US text, Title Case on a common noun mid-sentence, a hyphen kept on a compound after its noun. Everything else counts only in a cluster, including the borderline vocabulary tier, wordy constructions, email boilerplate, and service formulas ("Feel free to," "Certainly!", "Great question"), which people write too. In a first-person draft, a spoken "just," "honestly," or "actually" is voice: thin a cluster and keep the one that sounds like the writer.
+A few tells count on a single instance, wherever they appear: the em dash and its stand-ins, the loud tier of the AI vocabulary in [phrases.md](phrases.md), the not-X-but-Y contrast in any of its forms, the staged line (a one-line closer or kicker, a pull-quote aphorism, a run of ad-copy fragments), an objection nobody raised, meta-commentary, and unmistakable model residue, meaning self-reference as an AI ("As an AI language model," a knowledge-cutoff disclaimer), a trailing offer ("Want me to expand this?"), process narration pasted with the deliverable ("I've analyzed your requirements"), and a chat sign-off ("I hope this helps"). Convention slips are objective errors fixed even alone: a British spelling in US text, Title Case on a common noun mid-sentence, a hyphen kept on a compound after its noun. Everything else counts only in a cluster, including the borderline vocabulary tier, wordy constructions, email boilerplate, and service formulas ("Feel free to," "Certainly!", "Great question"), which people write too. In a first-person draft, a spoken "just," "honestly," or "actually" is voice: thin a cluster and keep the one that sounds like the writer.
 
 ## Quick checks
 
@@ -125,20 +125,21 @@ Run each group before delivering. The list binds like the core rules, since it a
 - Vague declarative ("The implications are significant")? Name the specific implication from the source, or cut the sentence; don't make one up.
 - Paragraph that restates the prompt or could be cut with nothing lost? Make a real claim or delete it.
 - Sentence that could move unchanged to another company, product, or person? Cut it, or tie it to this subject with a fact the source gives.
-- Reader guidance ("As you can see," "This distinction matters," a redundant "in other words")? Cut the label; add the support if the point isn't clear.
+- Reader guidance ("As you can see," "This distinction matters," a redundant "in other words"), or a sentence naming what the example before it showed ("This shows how much timing matters")? Cut the label; add the support if the point isn't clear.
 - Vague connection ("associated with," "linked to")? Name the relationship the source gives; if it gives none, keep the vague word rather than invent a role.
 - Inflated significance ("marking a pivotal moment," "plays a key role," "setting the stage for"), or a stock "despite these challenges, X continues to thrive" paragraph? Keep the fact, drop the significance.
 - Pull-quote sentence, aphorism template ("X is the currency of Y," "X becomes a trap"), or stock metaphor ("a double-edged sword," "move the needle")? Rewrite as a working sentence with the trade-off, the fix, or the gain.
-- Documentation describing what the current text replaced ("added to replace the old loop")? Describe the current behavior; history belongs in changelogs and migration guides.
+- Text describing itself: what it replaced ("added to replace the old loop"), how it was compiled or checked ("anything unverified is marked"), or a layout the reader can see ("the table below compares")? Write about the subject; keep a source the reader can follow and a caveat that changes what they do, and leave history to changelogs.
+- Reply that rebuilds what the reader already knows (their own problem restated, the diagnosis, the proof) before reaching the decision? Make the decision the first sentence after any thanks, then keep only what would change whether the reader agrees; evidence for a point the reader already made goes. Act only when the thread is visible or the text is plainly a reply.
 
 ### Typography, format, and conventions
 
-- Em dash? Comma, period, or parentheses.
+- Em dash, or a spaced en dash (–) or double hyphen (`--`) standing in for one? Comma, period, or parentheses.
 - Bold emphasis, ALL CAPS, scare quotes around an ordinary word, or emoji in prose? Remove; rewrite if the word needs weight.
 - Bold-label lead-in ("**Speed:** ..."), `---` divider, or emoji or arrow (→) as a bullet or heading? Drop the label, use paragraph breaks, use plain markers.
 - Markdown (asterisks, hashes, list dashes) in a channel that won't render it (a plain-text email, a text message, a chat reply)? Write the sentence without markup.
-- Heading restated by its first sentence, a top-level heading repeating the document title, or a heading over a one- or two-sentence section? Cut the repeat; merge the short section into its neighbor.
-- Hyphen kept on a compound after its noun ("the report is high-quality")? Hyphenate before the noun only.
+- Heading restated by its first sentence, a top-level heading repeating the document title, a heading over a one- or two-sentence section, or a heading written for effect ("The decision, on one screen")? Cut the repeat; merge the short section into its neighbor; name what the section holds.
+- Hyphen kept on a compound after its noun ("the report is high-quality")? Hyphenate before the noun only, unless the dictionary always hyphenates the word ("third-party").
 - Semicolon where a period flows better? Replace. Keep it only to balance two related clauses.
 - Colon that only announces ("Here's the key insight:")? Cut the announcement.
 - Exclamation mark of enthusiasm ("Exciting news!", "Let's go!")? Keep the exclamation for a sentence that exclaims.

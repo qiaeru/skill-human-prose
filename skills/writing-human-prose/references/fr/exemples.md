@@ -300,6 +300,22 @@ La volonté revient à qui veut, ici la société que la source nomme, alors que
 
 Rien dans la source ne relie ces trois faits, si bien que la réécriture les coordonne sans « mais », « alors que » ni « donc », qui leur prêteraient une opposition ou une cause.
 
+## 41. Texte qui parle de lui-même
+
+**Avant.** Cette section remplace l'ancienne page de configuration, qui listait toutes les options dans un long tableau. Les étapes qui suivent sont présentées dans l'ordre où vous les exécutez. Copiez le fichier `config.example.toml` sous le nom `config.toml`, puis renseignez votre clé d'accès dans le champ `token`. Le service ne relit ce fichier qu'au redémarrage.
+
+**Après.** Copiez le fichier `config.example.toml` sous le nom `config.toml`, puis renseignez votre clé d'accès dans le champ `token`. Le service ne relit ce fichier qu'au redémarrage.
+
+Les deux premières phrases parlaient de la page, de ce qu'elle remplace et d'un ordre que le lecteur voit de lui-même, alors que la réserve sur le redémarrage reste, puisqu'elle change ce que le lecteur doit faire.
+
+## 42. Contexte déjà connu réexpliqué
+
+**Avant.** Merci pour ta relecture. Comme tu l'as relevé, le chapitre 3 dépasse de douze pages le gabarit de la collection, parce que l'entretien avec l'architecte y figure en entier. J'ai recompté les autres chapitres, qui tiennent tous dans le gabarit. Couper l'entretien obligerait à redemander l'accord de l'architecte sur la version abrégée. Je propose donc de garder l'entretien entier et de le déplacer en annexe.
+
+**Après.** Merci pour ta relecture. Je propose de garder l'entretien avec l'architecte entier et de le déplacer en annexe, puisque le couper obligerait à lui redemander son accord sur la version abrégée.
+
+Le dépassement et sa cause figuraient déjà dans la relecture, si bien que le diagnostic repris et le recomptage, qui ne change rien à la proposition, retardaient celle-ci. La réponse s'ouvre sur la proposition et garde le seul fait absent de la relecture, l'accord à redemander, en rendant le « donc » de la source par un « puisque ». Hors d'un fil, dans une note qui se lit seule, le diagnostic resterait.
+
 ## Suppressions pures
 
 Pour ces familles, le geste est une coupe, et l'« Après » est l'« Avant » débarrassé du tic, sans rien de reformulé ni d'ajouté à la place.

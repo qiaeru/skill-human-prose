@@ -17,6 +17,8 @@ Contents, one section per family, each found by its title:
 - Pseudo-Clefts and Wh- Crutches
 - Participial Consequence Tails
 - Formulaic Constructions
+- Text That Describes Itself
+- Re-explaining Shared Context
 - False Agency
 - Passive Voice
 - Narrator-from-a-Distance
@@ -234,7 +236,32 @@ A comma plus an "-ing" clause hangs a consequence or a judgment on the end of th
 | A heading restated by its first sentence ("## Performance," then "Speed matters.") | Runway before the content; cut the restatement |
 | A heading over a one- or two-sentence section | Structure heavier than its content; merge the section into a neighbor or drop the heading |
 | A top-level heading that repeats the document title | The title stated once is enough |
-| Documentation describing what the current text replaced ("added to replace the old loop") | The reader needs the current behavior; history belongs in changelogs and migration guides |
+| A heading written for effect ("The decision, on one screen") | Name what the section holds ("How the six options compare") |
+
+## Text That Describes Itself
+
+The text talks about its own history, assembly, or layout instead of its subject. Narrating how an answer was built fits any answer, which is why a model reaches for it; the reader only needs the result.
+
+| Pattern | Fix |
+| --- | --- |
+| What the current text replaced ("added to replace the old loop") | Describe the current behavior; history belongs in changelogs, release notes, and migration guides |
+| How it was compiled or checked ("pulled from each vendor's price page, with anything unverified marked as such") | State the result; keep a source the reader can follow and a caveat that changes what they do |
+| A layout the reader can already see ("the table below compares," "this section is organized by owner," "the steps are listed in order") | Cut it; state a convention only when the reader can't infer it, and state it once |
+
+**Instead:** Write about the subject. One line describing the page is ordinary; the tell is a text that narrates itself as it goes. See Example 34 in [examples.md](examples.md).
+
+## Re-explaining Shared Context
+
+A model writes for a reader who shares no context, since that fits every case. A reply in a thread has a reader who already holds the background, so rebuilding it buries the answer. Each sentence passes on its own, which is why this tell survives a line-by-line edit.
+
+| Pattern | Fix |
+| --- | --- |
+| A reply that restates the other person's problem before answering it | Open on the answer or the decision |
+| The diagnosis, the evidence, or a query laid out to prove the plan will work | Keep only what would change whether the reader agrees; evidence for a point the reader already made goes, and the proof belongs in the ticket or the document that follows |
+| Background the reader wrote or already agreed to | Cut it |
+| The decision sitting in the last line | Move it to the first |
+
+**Instead:** Act on this only when the surrounding conversation is visible or the text is plainly a reply; a standalone document still owes its reader the context. Trimming context never cuts a fact the reader needs to act on, such as a link, a deadline, or a number they don't have. See Example 35 in [examples.md](examples.md).
 
 ## False Agency
 
@@ -298,7 +325,7 @@ Decoration doing the work the sentence should do.
 | Bold-label lead-ins (`**Speed:** the build...`) starting list items or paragraphs | Drop the boldface label; write a normal sentence or a real heading |
 | Emoji in prose (🚀, ✅, 💡) | Delete; the word carries the meaning |
 | Emoji or arrows (→) as bullet markers or section headings | Plain markers and text headings; an emoji inside a sentence is a separate call |
-| Em dashes | Comma, period, or parentheses |
+| Em dashes, and the spaced en dash (–) or double hyphen (`--`) standing in for one | Comma, period, or parentheses; an unspaced en dash in a range ("2020–2024") stays |
 | Horizontal-rule dividers (`---`) between sections | Use paragraph breaks or a heading |
 | ALL CAPS for emphasis | Rewrite |
 | Scare "quotes" around ordinary words | Remove, or commit to the word |
@@ -327,7 +354,7 @@ Check the channel before setting a heading, a bold word, or a bullet. Where the 
 | Exclamation marks of enthusiasm ("Exciting news!", "Let's go!") | A period; keep the exclamation for a sentence that exclaims |
 | Title Case On Common Nouns mid-sentence ("our Marketing Team") | Lowercase; reserve capitals for proper nouns |
 | Missing serial comma ("A, B and C") | US convention: "A, B, and C" |
-| Hyphen kept on a compound after its noun ("the report is high-quality," "runs in real-time") | Hyphenate before the noun ("a high-quality report") and drop it after ("the report is high quality") |
+| Hyphen kept on a compound after its noun ("the report is high-quality," "runs in real-time") | Hyphenate before the noun ("a high-quality report") and drop it after ("the report is high quality"); a compound the dictionary always hyphenates ("third-party," "cross-functional") keeps it everywhere |
 
 ## Bullet-Point Abuse
 

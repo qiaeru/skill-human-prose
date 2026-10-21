@@ -86,6 +86,7 @@ Reader guidance, a line that steps outside the text to say what to notice or how
 - "This distinction matters" / "That last part matters more than it sounds"
 - "The key point is" / "The takeaway here is"
 - "In other words," before a restatement the reader didn't need
+- A sentence after an example, a scene, or a figure that names what it showed ("This shows how much timing matters," "The message was clear:"); keep it only when it adds a consequence the example doesn't show
 
 ## Faux-Insight Setups
 

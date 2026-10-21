@@ -340,3 +340,23 @@ Each "After" is fluent, natural US English: full sentences that connect, concret
 > "The dashboard shows the numbers your team needs. The platform is designed to surface the right ones, and retention is next on the roadmap."
 
 **Changes:** The opener put the writer's standing ahead of a product claim, and three things carried a mind of their own: a dashboard that understands, a platform that commits, a roadmap that wants. The rewrite says what each thing does or is for, in impersonal form, since the source names no company and a writer who ran support teams can't speak for the vendor as "we." Which numbers the team needs stays as vague as the source left it.
+
+## Example 34: Text That Describes Itself
+
+**Before:**
+> "This page replaces the old setup guide, which covered every flag in one long table. The steps below are taken from the current installer and listed in the order you run them. Install the package with `npm install -g tidyfmt`, then run `tidyfmt init` in your project folder. The init command hasn't been tested on Windows."
+
+**After:**
+> "Install the package with `npm install -g tidyfmt`, then run `tidyfmt init` in your project folder. The init command hasn't been tested on Windows."
+
+**Changes:** The first two sentences talked about the page, not the tool: what it replaced, where its steps came from, and an order the reader sees anyway. They go. The Windows caveat stays, since it changes what a Windows user does.
+
+## Example 35: Reply That Re-Explains Shared Context
+
+**Before:**
+> "Thanks for flagging the timeout. As you said, the export fails for accounts with more than 10,000 rows, because the job runs in a single request and the gateway cuts it off at 30 seconds. I checked last week's logs, and every failure came from one of the four largest accounts. Splitting the job into batches would fix it, but that touches the billing export too, which another team owns. I'd suggest we raise the gateway timeout for the export route now and open a ticket for the batching."
+
+**After:**
+> "Thanks for flagging the timeout. I'd suggest we raise the gateway timeout for the export route now and open a ticket to split the job into batches. Batching would fix it, but it touches the billing export too, which another team owns."
+
+**Changes:** The reviewer had found the failure and its cause, so the restated diagnosis only delayed the proposal, and the log check proved a point nobody disputed; it can go in the ticket. The reply opens on the proposal and keeps the one fact the reviewer may lack, that batching reaches a job another team owns. Out of a thread, as a standalone incident note, the diagnosis would stay.

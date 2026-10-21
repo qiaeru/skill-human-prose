@@ -42,7 +42,7 @@ Ouvre au besoin les listes de [tournures.md](tournures.md), les patrons de [stru
 
 12. **Pas de méta-commentaire.** L'annonce du propos (« Dans cet article, nous allons »), le commentaire qui dit au lecteur quel poids donner à ce qu'il lit (« Ce point est essentiel ») et l'amorce de fausse révélation (« Ce que personne ne vous dit ») retardent le propos. Coupe, et si un fait manque, c'est lui qui remplace l'aparté. Voir [tournures.md](tournures.md).
 
-13. **Pas de tiret cadratin, pas de barre oblique entre deux mots, et parcimonie sur le deux-points, le point-virgule et le point d'exclamation.** Le cadratin devient virgule, point ou parenthèses, jamais un deux-points ou des points de suspension mis à sa place, et la barre oblique devient « ou » ou « et ». Détail dans [typographie.md](typographie.md).
+13. **Pas de tiret cadratin ni de tiret qui le remplace, pas de barre oblique entre deux mots, et parcimonie sur le deux-points, le point-virgule et le point d'exclamation.** Le cadratin, comme le demi-cadratin espacé ou le double trait d'union mis à sa place, devient virgule, point ou parenthèses, jamais un deux-points ou des points de suspension mis à sa place, et la barre oblique devient « ou » ou « et ». Détail dans [typographie.md](typographie.md).
 
 14. **Respecte la typographie française.** Insécables de la bonne largeur, majuscules accentuées, guillemets français, nombres, heures et ordinaux composés à la française, sans virgule d'Oxford. Détail dans [typographie.md](typographie.md).
 
@@ -58,23 +58,15 @@ Ouvre au besoin les listes de [tournures.md](tournures.md), les patrons de [stru
 
 20. **Respecte la casse française.** Casse de phrase, pas casse de titre à l'anglaise (« Les grandes tendances de l'année »), pas de nom commun capitalisé en cours de phrase (« l'intelligence artificielle »), mois et jours en minuscules. Le sigle épelé garde ses capitales (SNCF), et l'acronyme prononcé comme un mot garde la graphie que l'auteur choisit (Otan ou OTAN), pourvu qu'elle reste la même dans tout le texte. Voir [typographie.md](typographie.md).
 
-21. **Bannis le registre d'assistant.** Coupe la flagornerie d'ouverture (« Excellente question »), les formules de service (« N'hésitez pas à revenir vers moi »), les mentions du modèle et l'aveu de lacune suivi d'une conjecture. Voir [tournures.md](tournures.md).
-
-22. **Ne débats pas avec un absent.** « Je ne dis pas que », « Certains objecteront que », « On pourrait être tenté de » répondent à une objection que personne n'a soulevée. Coupe la défense et garde l'affirmation qu'elle abrite, sauf si le texte attribue l'objection à quelqu'un et la réfute. Voir [tournures.md](tournures.md).
-
-23. **Énonce, ne mets pas en scène.** La chute d'une ligne (« C'est là tout l'enjeu. »), les fragments scandés et l'aphorisme (« X est la monnaie de Y ») arrêtent le lecteur sur une idée au lieu d'en ajouter une. Coupe ou remplace par l'affirmation précise, supprime la chute finale en métaphore au lieu de la récrire, et garde la phrase brève qui apporte un fait neuf. Voir [structures.md](structures.md).
-
-24. **Garde le fait, retire la portée.** « Marque un tournant », « ouvre la voie à », le paragraphe d'envoi (« L'avenir s'annonce prometteur »), l'autorité empruntée (« les experts s'accordent ») et le lien vague (« associé à ») habillent un fait ordinaire en événement. Nomme la source ou le rapport que le texte fournit, sinon coupe sans rien inventer. Voir [tournures.md](tournures.md).
-
-25. **Mets en italique les termes étrangers non naturalisés.** Le latin (_in fine_, _a priori_), l'anglais technique (_skill_, _frontmatter_) et toute autre langue (_a cappella_) passent en italique, alors que les emprunts assimilés (« week-end », « football ») restent en romain.
+21. **Mets en italique les termes étrangers non naturalisés.** Le latin (_in fine_, _a priori_), l'anglais technique (_skill_, _frontmatter_) et toute autre langue (_a cappella_) passent en italique, alors que les emprunts assimilés (« week-end », « football ») restent en romain.
 
 ## Seuil d'action en français
 
-Le tiret cadratin, le registre d'assistant, la fausse opposition, la mise en scène, l'objection fantôme et le méta-commentaire justifient une correction dès la première occurrence, alors qu'un point-virgule isolé, un connecteur, un participe, une précaution, un adjectif intensif ou un anglicisme qui a son équivalent français (« impacter », « process ») ne comptent qu'en compagnie d'autres tics dans le même passage. Les fautes objectives (typographie, casse, pièges grammaticaux, barre oblique entre deux mots, faux-ami pris dans un sens que le français n'a pas, comme « définitivement » pour « certainement ») se corrigent même isolées, puisqu'aucun auteur ne les choisit. La graphie d'un acronyme (Otan ou OTAN) n'en fait pas partie, puisqu'elle relève d'un choix que seul le mélange dans un même texte rend fautif.
+Le tiret cadratin et ses substituts, le registre d'assistant, la fausse opposition, la mise en scène, l'objection fantôme et le méta-commentaire justifient une correction dès la première occurrence, alors qu'un point-virgule isolé, un connecteur, un participe, une précaution, un adjectif intensif ou un anglicisme qui a son équivalent français (« impacter », « process ») ne comptent qu'en compagnie d'autres tics dans le même passage. Les fautes objectives (typographie, casse, pièges grammaticaux, barre oblique entre deux mots, faux-ami pris dans un sens que le français n'a pas, comme « définitivement » pour « certainement ») se corrigent même isolées, puisqu'aucun auteur ne les choisit. La graphie d'un acronyme (Otan ou OTAN) n'en fait pas partie, puisqu'elle relève d'un choix que seul le mélange dans un même texte rend fautif.
 
 ## Vérifications rapides
 
-Passe chaque famille avant de livrer. La liste compte autant que les règles centrales, puisqu'elle couvre aussi des tics sans règle numérotée (pléonasmes, verbes de redéfinition, clôtures clichées, gras d'emphase, émojis), et les inventaires complets sont dans les références.
+Passe chaque famille avant de livrer. La liste compte autant que les règles centrales, puisqu'elle couvre aussi des tics sans règle numérotée (registre d'assistant, objection fantôme, mise en scène, portée gonflée, pléonasmes, verbes de redéfinition, clôtures clichées, gras d'emphase, émojis), et les inventaires complets sont dans les références.
 
 ### Fidélité au texte source
 
@@ -82,7 +74,6 @@ Passe chaque famille avant de livrer. La liste compte autant que les règles cen
 - Texte nettement plus long que l'original, ou sens déplacé ? Resserre et rétablis.
 - Détail précis lissé en généralité (« de trente à huit minutes » devenu « un gain de productivité ») ? Rétablis le chiffre ou le nom.
 - Mot de portée de la source (« seul », « premier », « la plupart », « tous les deux », « à la fois ») perdu ou déplacé en remaniant la phrase ? Rétablis-le, puisqu'un changement de forme ne change jamais la portée de l'affirmation.
-- Documentation qui décrit ce que le texte remplace au lieu de ce qu'il fait ? Décris le comportement actuel, et laisse l'ancienne version au journal des modifications.
 
 ### Architecture de la phrase
 
@@ -120,10 +111,10 @@ Passe chaque famille avant de livrer. La liste compte autant que les règles cen
 - Plus d'un connecteur d'ouverture par paragraphe ? Coupe l'excès.
 - Ouverture parasite (« À noter que », « Dans un monde où », « Que vous soyez X ou Y », « Honnêtement », « En tant que X, je ») ou pseudo-clivée d'annonce (« Ce qui est intéressant, c'est que ») ? Énonce directement.
 - Question-relance (« Le résultat ? ») ou fausse révélation (« Ce que personne ne vous dit ») ? Énonce, sans suspense.
-- Commentaire interprétatif (« Comme on le voit », « Autrement dit » qui redit) ? Coupe, le fait suffit.
-- Clôture cliché (« en définitive », « au final ») ou paragraphe final qui récapitule ? Termine sur le dernier fait concret.
-- Objection fantôme ou option écartée que personne n'a soulevée ? Coupe, garde l'affirmation.
-- Chute d'une ligne qui redit, même chute après chaque section, mot scandé ? Coupe, ou fonds dans une phrase qui apporte un fait.
+- Commentaire interprétatif (« Comme on le voit », « Autrement dit » qui redit), ou phrase qui dit ce que l'exemple précédent vient de montrer (« Preuve que le calendrier compte ») ? Coupe, le fait suffit.
+- Clôture cliché (« en définitive », « au final »), paragraphe final qui récapitule ou chute finale en métaphore ? Coupe sans récrire et termine sur le dernier fait concret.
+- Objection fantôme (« Je ne dis pas que », « On pourrait être tenté de ») ou option écartée que personne n'a soulevée ? Coupe et garde l'affirmation, sauf si le texte attribue l'objection à quelqu'un et la réfute.
+- Chute d'une ligne qui redit (« C'est là tout l'enjeu. »), même chute après chaque section, mot scandé ? Coupe, ou fonds dans une phrase qui apporte un fait.
 - Aphorisme ou faux approfondissement (« la vraie question est », « X est la monnaie de Y ») ? Affirmation précise.
 - Portée gonflée (« marque un tournant »), section « Défis et perspectives » ou paragraphe d'envoi ? Garde le fait.
 - Autorité empruntée (« de nombreuses études montrent ») ou lien vague (« associé à ») ? Nomme la source ou le rapport que le texte donne, sinon coupe ou garde le flou.
@@ -131,10 +122,12 @@ Passe chaque famille avant de livrer. La liste compte autant que les règles cen
 - Balancement sans position (« tout dépend du contexte ») ? Prends position, nomme l'arbitrage.
 - Même moule ou même longueur pour tous les paragraphes ? Change le point d'attaque et la longueur, coupe la transition qui va de soi.
 - Paragraphe qui reformule la demande, ou dont la suppression ne retire rien ? Affirme quelque chose, ou coupe.
+- Texte qui parle de lui-même, de ce qu'il remplace, de la façon dont il a été compilé ou vérifié (« les montants non confirmés sont signalés ») ou d'une mise en page que le lecteur voit (« le tableau ci-dessous compare ») ? Parle du sujet, garde la source que le lecteur peut suivre et la réserve qui change ce qu'il fait, et laisse l'historique au journal des modifications.
+- Réponse qui refait le chemin que le lecteur connaît déjà (son propre problème, le diagnostic, la preuve) avant d'arriver à la décision ? Mets la décision en première phrase, après un éventuel remerciement, et ne garde que ce qui changerait l'accord du lecteur, sans la preuve d'un point qu'il a lui-même soulevé. N'agis que si le fil est visible ou si le texte est à l'évidence une réponse.
 
 ### Ponctuation
 
-- Tiret cadratin (—) ? Virgule, point ou parenthèses.
+- Tiret cadratin (—), ou demi-cadratin espacé (–) et double trait d'union (`--`) mis à sa place ? Virgule, point ou parenthèses.
 - Deux-points en pure annonce, sans liste ni explication derrière, ou titre formulaïque en deux volets (« X : le guide complet ») ? Reformule.
 - Point-virgule là où un point ou une virgule passerait mieux ? Remplace, sauf pour équilibrer deux propositions liées ou ponctuer une liste verticale.
 - Barre oblique entre deux mots ? « ou », « et », ou reformule.
@@ -152,7 +145,7 @@ Passe chaque famille avant de livrer. La liste compte autant que les règles cen
 - Gras d'emphase semé dans la prose, ou paragraphe mué en intitulés en gras suivis d'un deux-points ? Change la phrase, ou reviens à la prose articulée.
 - Balisage _markdown_ dans un canal qui ne le rend pas (texte brut, SMS, messagerie) ? Écris sans balisage.
 - Émoji, pictogramme ou flèche (→) dans la prose ? Remplace par le mot.
-- Titre redit par la phrase qui le suit, filet entre chaque section, titre sur une section de deux phrases, titre de liste (« 7 façons de ») ? Coupe ou fonds.
+- Titre redit par la phrase qui le suit, filet entre chaque section, titre sur une section de deux phrases, titre de liste (« 7 façons de ») ou titre écrit pour l'effet (« La décision, en un écran ») ? Coupe ou fonds, et nomme ce que la section contient.
 
 ### Registre d'assistant
 
