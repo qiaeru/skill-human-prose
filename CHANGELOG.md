@@ -6,6 +6,20 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## [Unreleased]
 
+### Added
+
+- A reply that re-explains what its reader already knows (their own problem, the diagnosis, the proof) before reaching the decision, with an example in each language.
+- Text that describes itself now covers how it was compiled or checked and a layout the reader can already see, not only what it replaced.
+- The spaced en dash and the double hyphen that stand in for a banned em dash count as the em dash; French treats the incise dash the same whatever its width, and a range keeps its en dash.
+- A heading written for effect, and a sentence that names what the example before it showed.
+- Validator: spaced en dashes and double hyphens in prose.
+- Evals: a reply in a review thread.
+
+### Changed
+
+- English: a compound the dictionary always hyphenates ("third-party") keeps its hyphen after the noun.
+- French: core rules 21 to 24 (assistant register, the objection nobody raised, staging, inflated significance) are gone, since the quick checks already carried them; their quoted cues and exceptions moved into the checks, and rule 25 became rule 21.
+
 ## [1.1.0] - 2026-09-23
 
 ### Added
