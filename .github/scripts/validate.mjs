@@ -85,13 +85,15 @@ for (const file of proseFiles) {
 const isFrench = (file) => file.includes(`${path.sep}references${path.sep}fr${path.sep}`);
 
 // 3. Typography: the em dash is a single-instance tell in both languages,
-// and the repo's prose is the skill's own test bed. Syntactic exceptions:
+// and so are the spaced en dash and double hyphen that stand in for it once
+// the em dash is banned. The repo's prose is the skill's own test bed. Syntactic exceptions:
 // frontmatter, code fences and spans, link targets, URLs, table separators.
 // The character is only tolerated as a parenthesized mention "(—)". French
 // files also carry the no-break spaces of French rule 14, which the editing
 // tools flatten and normalize.mjs restores.
 const CHECKS = [
   [/—/, 'em dash in prose; use a comma, a period, or parentheses'],
+  [/\s(?:–|--)\s/, 'spaced en dash or double hyphen standing in for an em dash; use a comma, a period, or parentheses'],
 ];
 const FRENCH_CHECKS = [
   [/\u0020[?!;%»]/, 'plain space before double punctuation or closing guillemet, narrow no-break space U+202F expected'],
@@ -106,7 +108,7 @@ const FRENCH_CHECKS = [
 // stripped before the check; blockquotes and the "Avant" lines of the
 // French examples are skipped as quoted material. English files: the loud
 // AI vocabulary removed on sight. French files: the tells of French rules
-// 13, 14, 20, and 25.
+// 13, 14, 20, and 21.
 const MENTION_CHECKS = [
   [
     /\b(?:delve|delving|leverage[sd]?|leveraging|seamless(?:ly)?|tapestry|testament|game-changer|myriad|plethora)\b/i,
@@ -127,7 +129,7 @@ const FRENCH_MENTION_CHECKS = [
   [/\.\.\./, 'three typed dots, the single character … expected'],
   [
     /(?:^|[^_\w-])(?:skills?|plugins?|frontmatter|markdown|workflows?|commits?|push|pull requests?|marketplace)(?![\w-]|\.md|\.json|\.yml)/i,
-    'unnaturalized English term in roman, italics expected (French rule 25)',
+    'unnaturalized English term in roman, italics expected (French rule 21)',
   ],
 ];
 for (const file of proseFiles) {
