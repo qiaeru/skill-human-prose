@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## [Unreleased]
 
+## [1.2.0] - 2026-10-21
+
 ### Added
 
 - A reply that re-explains what its reader already knows (their own problem, the diagnosis, the proof) before reaching the decision, with an example in each language.
