@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## [Unreleased]
 
+### Changed
+
+- The plugin and marketplace descriptions are a short summary without trigger phrases, in the shape the owner's other plugins share; the skill description keeps the triggers.
+
 ## [1.3.0] - 2026-10-22
 
 ### Added

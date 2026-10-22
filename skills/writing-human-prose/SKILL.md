@@ -1,6 +1,6 @@
 ---
 name: writing-human-prose
-description: Remove AI writing tells from English or French prose, or flag them without rewriting. Use whenever US-English or French text is drafted, edited, or reviewed, even unnamed, including UI strings and locale files, and when asked if a text sounds AI-written.
+description: Remove AI writing tells from US-English or French prose, or flag them without rewriting. Use whenever US-English or French text is drafted, edited, or reviewed, even unnamed, including UI strings and locale files, and when asked whether a text sounds AI-written.
 ---
 
 # Writing Human Prose

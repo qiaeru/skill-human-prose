@@ -25,7 +25,6 @@ collectMarkdown('skills');
 
 // 1. Frontmatter of each SKILL.md: name equal to its folder, description
 // present and under 300 characters. The runtime reads only these two fields.
-const descriptions = {};
 for (const skillName of readdirSync('skills')) {
   const dir = path.join('skills', skillName);
   if (!statSync(dir).isDirectory()) continue;
@@ -52,7 +51,6 @@ for (const skillName of readdirSync('skills')) {
   } else if ([...fields.description].length > 300) {
     report(file, 3, `description is ${[...fields.description].length} characters, maximum 300`);
   }
-  descriptions[skillName] = fields.description;
 }
 
 // 2. Relative links: every target exists, and a link written from inside a
@@ -269,19 +267,7 @@ if (!existsSync(path.join('skills', manifest.name))) {
   report('.claude-plugin/plugin.json', null, `plugin name "${manifest.name}" matches no folder under skills/`);
 }
 
-// 5. The plugin description repeats the description of the skill of the
-// same name, since the marketplace reads the first and the runtime the
-// second; a trigger added to one must reach the other.
-const skillDescription = descriptions[manifest.name];
-if (skillDescription && manifest.description !== skillDescription) {
-  report(
-    '.claude-plugin/plugin.json',
-    null,
-    `description differs from the one in skills/${manifest.name}/SKILL.md`,
-  );
-}
-
-// 6. The marketplace entry repeats the plugin description, since the
+// 5. The marketplace entry repeats the plugin description, since the
 // install listing reads the first and the runtime the second.
 const marketplace = JSON.parse(read('.claude-plugin/marketplace.json'));
 for (const entry of marketplace.plugins ?? []) {
