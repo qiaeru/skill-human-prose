@@ -1,10 +1,10 @@
 ---
 tags: [interface]
 max_turns: 10
-allowed_tools: [Read, Glob, Grep, Skill, Write]
+allowed_tools: [Read, Glob, Grep, Skill]
 ---
 
-Relis le français de ce fichier et écris la version corrigée dans `upload.js`, sans toucher au code.
+Relis le français de ce fichier et renvoie-le corrigé, sans toucher au code.
 
 ```js
 /**
