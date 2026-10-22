@@ -4,7 +4,7 @@
 
 The skill treats two failure modes as slop. The first is the familiar AI gloss: filler phrases, formulaic contrasts, signature vocabulary ("delve," "leverage," "seamless"; « véritable », « permettre de », « implémenter »), vague declaratives, and pull-quote bait. The second is overcorrection: prose chopped into slogans, or made casual on purpose to "sound human," which reads as machine-made as the gloss. The target sits between them. The tells differ by language, so the rules do too: English prose is pushed toward fluent, natural US English with concrete subjects and varied rhythm, while French prose is pushed away from the short sentences calqued on English toward sentences articulated by subordination, with French typography.
 
-The name says what the prose should sound like, not what a detector should conclude. The skill counts the fake typo and the bolted-on casualness among the tells, and in audit mode it names and quotes patterns without guessing who wrote a text.
+The name says what the prose should sound like. The skill aims at no detector score: it counts the fake typo and the bolted-on casualness among the tells, and in audit mode it names and quotes patterns without guessing who wrote a text.
 
 Whatever the language, the rewrite stays faithful to the source: it adds no number, cause, or actor the original doesn't contain, changes only what a check flags so the author recognizes the result as their own draft, and flags a vague passage to the author rather than fill it in.
 
