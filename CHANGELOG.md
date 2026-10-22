@@ -18,6 +18,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 - The delivery note describes the delivered text, never a change it doesn't show.
 - English: "not only X but also Y" keeps X when X is true ("X and Y"), as the French rule already did.
+- Evals: the quick tests accept a rewrite much shorter than a filler-heavy source, and the English one accepts a named audience in place of "Whether you're X or Y," as the rules do; its criteria are split in three.
 
 ### Fixed
 
