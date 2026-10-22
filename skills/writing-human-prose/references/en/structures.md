@@ -142,7 +142,7 @@ The text asks a question only to answer it in the next breath, a transition dres
 | "The best part: it learns." | The colon reveal, same move with the question removed |
 | "The detail that makes it work: a separate agent grades it." | Noun phrase, colon, dramatic payoff |
 
-**Instead:** State it: "Builds got faster." A question that the next several paragraphs explore can stay; the tell is question-then-instant-answer. The colon reveal gets the same fix, a plain sentence ("A separate agent grades the output, which is what makes it work"); keep colons for lists, labels, and quotes.
+**Instead:** State it: "Builds got faster." A question that the next several paragraphs explore can stay, and so can one that carries a casual writer's humor rather than a claim; the tell is question-then-instant-answer standing in for a statement. The colon reveal gets the same fix, a plain sentence ("A separate agent grades the output, which is what makes it work"); keep colons for lists, labels, and quotes.
 
 ## Rhetorical Setups
 
@@ -154,7 +154,7 @@ A setup promises an insight and makes the reader wait for it.
 | "What if [reframe]?" / "What if I told you..." | A plain claim staged as a revelation |
 | "Think about it:" | Tells the reader to think instead of giving them something to think about |
 
-**Instead:** Make the point and leave the conclusion to the reader. The stock openers that do the same job in one phrase ("Here's what I mean:", "And that's okay.") sit in [phrases.md](phrases.md) under throat-clearing and meta-commentary.
+**Instead:** Make the point and leave the conclusion to the reader. In a casual first-person text, a shared moment the writer jokes about with the reader ("You know that moment when...? Yeah, me too.") is voice rather than a setup, and stays. The stock openers that do the same job in one phrase ("Here's what I mean:", "And that's okay.") sit in [phrases.md](phrases.md) under throat-clearing and meta-commentary.
 
 ## Arguing with No One
 

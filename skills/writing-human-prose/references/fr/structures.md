@@ -148,7 +148,7 @@ Ces amorces annoncent l'idée au lieu de la livrer.
 
 Entre dans le propos. Les fausses révélations et les commentaires interprétatifs sont listés dans [tournures.md](tournures.md).
 
-En cours de texte, la question-relance (« Le résultat ? Une équipe plus rapide. », « Le verdict ? ») mime le suspense au lieu d'articuler. Énonce directement, par une phrase pleine ou une subordonnée de conséquence quand la source donne la conséquence.
+En cours de texte, la question-relance (« Le résultat ? Une équipe plus rapide. », « Le verdict ? ») mime le suspense au lieu d'articuler. Énonce directement, par une phrase pleine ou une subordonnée de conséquence quand la source donne la conséquence. Dans un texte familier à la première personne, la question que l'auteur partage avec le lecteur sur le ton de la blague (« Tu connais ce moment où… ? Moi aussi. ») relève de la voix et reste, alors que la question qui tient lieu d'affirmation se corrige.
 
 ## Chute d'une ligne et fragments dramatiques
 

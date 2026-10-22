@@ -115,7 +115,7 @@ Passe chaque famille avant de livrer. La liste compte autant que les règles cen
 
 - Plus d'un connecteur d'ouverture par paragraphe ? Coupe l'excès.
 - Ouverture parasite (« À noter que », « Dans un monde où », « Que vous soyez X ou Y », « Honnêtement », « En tant que X, je ») ou pseudo-clivée d'annonce (« Ce qui est intéressant, c'est que ») ? Énonce directement.
-- Question-relance (« Le résultat ? ») ou fausse révélation (« Ce que personne ne vous dit ») ? Énonce, sans suspense.
+- Question-relance (« Le résultat ? ») ou fausse révélation (« Ce que personne ne vous dit ») ? Énonce, sans suspense, sauf dans un texte familier à la première personne, où la question qui porte l'humour ou la connivence de l'auteur (« Tu connais ce moment où la compilation plante un vendredi soir ? Moi aussi. ») reste.
 - Commentaire interprétatif (« Comme on le voit », « Autrement dit » qui redit), ou phrase qui dit ce que l'exemple précédent vient de montrer (« Preuve que le calendrier compte ») ? Coupe, le fait suffit.
 - Clôture cliché (« en définitive », « au final »), paragraphe final qui récapitule, chute finale en métaphore ou question finale qui ne cherche qu'une réaction (« Et vous, qu'en pensez-vous ? ») ? Coupe sans récrire et termine sur le dernier fait concret.
 - Objection fantôme (« Je ne dis pas que », « On pourrait être tenté de ») ou option écartée que personne n'a soulevée ? Coupe et garde l'affirmation, sauf si le texte attribue l'objection à quelqu'un et la réfute.

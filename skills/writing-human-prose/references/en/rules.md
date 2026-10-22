@@ -36,7 +36,7 @@ The quick checks below are the working list; each rule here gives the principle,
 
 11. **No typographic crutches.** Replace an em dash, or the spaced en dash or double hyphen standing in for one, with a comma, a period, or parentheses, never with a colon, an ellipsis, or a contorted sentence. Bold, caps, emoji, and markup don't do the work the sentence should do. See [structures.md](structures.md).
 
-12. **Don't answer your own rhetorical questions.** "The result? Faster builds." becomes "Builds got faster."
+12. **Don't answer your own rhetorical questions.** "The result? Faster builds." becomes "Builds got faster." The counterweight: in a casual first-person text, a question that carries the writer's humor or complicity with the reader ("You know that moment when the build breaks at 11 p.m.? Yeah, me too.") is voice and stays; the tell is the question that stands in for a claim.
 
 13. **Trust readers.** Say the fact plainly, without softening it, justifying it in advance, or telling readers how much weight to give it. See [phrases.md](phrases.md).
 
@@ -109,7 +109,7 @@ Run each group before delivering. The list binds like the core rules, since it a
 - Objection nobody raised ("I'm not saying," "To be clear," "Don't get me wrong," "One might be tempted to")? Cut the defense; keep an objection only when the text attributes it or a reader would weigh it.
 - "Less X, more Y" or "Think X, not Y" see-saw? Write the full sentence.
 - Negative listing ("It's not A. It's not B. It's C.")? State C.
-- Rhetorical question answered immediately ("The catch? ..."), or its colon twin ("The best part: it learns.")? State it in a plain sentence.
+- Rhetorical question answered immediately ("The catch? ..."), or its colon twin ("The best part: it learns.")? State it in a plain sentence, except for a question that carries a casual writer's humor rather than a claim.
 - Pseudo-cleft opener ("What makes this hard is...")? Name the thing: "The constraint is..."
 - Learned litotes ("not without merit," "it is not uncommon for," "cannot be ignored")? Affirm: "useful," "often," "matters."
 - Participial consequence tail (", ensuring...," ", making it...," ", allowing you to...")? End the sentence; give the consequence its own sentence and actor, or cut it.
