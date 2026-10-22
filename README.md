@@ -10,7 +10,7 @@ Whatever the language, the rewrite stays faithful to the source: it adds no numb
 
 ## Credits
 
-This skill was inspired by several other skills, including [stop-slop](https://github.com/hardikpandya/stop-slop) by Hardik Pandya, [humanizer](https://github.com/blader/humanizer) by Siqi Chen, [no-ai-slop](https://github.com/petergyang/no-ai-slop) by Peter Yang, [anti-ai-slop-writing](https://github.com/jalaalrd/anti-ai-slop-writing) by jalaalrd, [SlopMonster](https://github.com/ItsssssJack/SlopMonster), and [anti-slop](https://github.com/miqdadbadjuber/anti-slop) by Miqdad Badjuber.
+This skill was inspired by several other skills, including [stop-slop](https://github.com/hardikpandya/stop-slop) by Hardik Pandya, [humanizer](https://github.com/blader/humanizer) by Siqi Chen, [no-ai-slop](https://github.com/petergyang/no-ai-slop) by Peter Yang, [anti-ai-slop-writing](https://github.com/jalaalrd/anti-ai-slop-writing) by jalaalrd, [SlopMonster](https://github.com/ItsssssJack/SlopMonster), [anti-slop](https://github.com/miqdadbadjuber/anti-slop) by Miqdad Badjuber, [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) by Conor Bronsdon, [Not-Ai](https://github.com/udaysharmadev/Not-Ai) by udaysharmadev, [anti-ai-writing-kit](https://github.com/evelynyaxueke/anti-ai-writing-kit) by evelynyaxueke, and [anti-ai-writing-claude-skill](https://github.com/avikbal-dm/anti-ai-writing-claude-skill) by Avik Bal.
 
 ## Layout
 

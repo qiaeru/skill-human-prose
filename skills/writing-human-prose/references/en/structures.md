@@ -43,8 +43,9 @@ A binary contrast knocks down a claim nobody made, so that the real point arrive
 | "It feels like X. It's actually Y." / "doesn't mean X, but actually Y" / "This doesn't mean X. It means Y." | A reveal staged against an impression the reader never had |
 | "stops being X and starts being Y" | A transformation with no mechanism behind it |
 | "..., no guessing" / "..., no setup required" (clipped negative tail) | Denies something no one claimed, to make the positive half sound larger |
+| "Most teams think X. They have Y." / "At first glance X. In reality, Y." / "Everyone talks about X. The real issue is Y." | The same reversal with no "not," staged against a belief the text hands to a crowd |
 
-**Instead:** State Y directly, in a full sentence. If the contrast with X carries real information, fold it in as a clause: "The problem is Y, not X." The test: does the negative half correct a belief the reader actually holds, or one nobody claimed?
+**Instead:** State Y directly, in a full sentence. If the contrast with X carries real information, fold it in as a clause: "The problem is Y, not X." When X is true as well, as in "It doesn't just format the code, it lints it," keep both halves: "It formats and lints the code." The test: does the negative half correct a belief the reader actually holds, or one nobody claimed?
 
 ## See-Saw Constructions
 

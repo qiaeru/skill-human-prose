@@ -8,7 +8,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ### Added
 
+- A reframe with no "not" ("Most teams think X. They have Y.", « À première vue X. En réalité, Y. ») counts as the false contrast, with an example in each language.
+- Fidelity checks: a rewrite keeps the source's certainty, negation, and conditions, invents no experience or opinion for the writer, and doesn't brighten bad news, again with an example in each language.
+- Truth and moral adjectives laid on things ("an honest estimate") and a closing question that only fishes for a reaction.
+- A request to get past an AI detector gets the same edit, with no noise added to fool it.
 - Evals: a French code file whose comments keep plain spaces while its displayed strings take non-breaking ones.
+
+### Changed
+
+- The delivery note describes the delivered text, never a change it doesn't show.
+- English: "not only X but also Y" keeps X when X is true ("X and Y"), as the French rule already did.
 
 ### Fixed
 

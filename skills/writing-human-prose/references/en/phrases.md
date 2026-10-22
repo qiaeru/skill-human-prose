@@ -153,6 +153,7 @@ A closing line that signals the end without adding anything. Stop on the last co
 - "Watch this space"
 - "...and that's a good thing."
 - "So what are you waiting for?"
+- "What do you think? Let me know in the comments." (a closing question that only fishes for a reaction)
 
 The kicker line is the same reflex without a stock phrase: a final metaphor, aphorism, or mic-drop sentence that turns the point into a lesson ("In the end, speed is a culture, not a setting"). Delete it rather than rewrite it into a better metaphor, and end on the last concrete sentence the draft already has; when the piece still needs closure, add a plain takeaway or the next step.
 
@@ -304,6 +305,8 @@ Keep adverbs that change the meaning of the verb: "slowly," "twice," "rarely," "
 In a first-person draft, "just," "honestly," and "actually" can be the writer's spoken rhythm rather than padding. Thin the cluster and keep the one that sounds like them; a draft scrubbed of every spoken adverb stops sounding like a person.
 
 The sentence adverbs that grade a whole statement ("interestingly," "importantly," "crucially," "notably") are the same reflex at the head of the sentence: they announce that the fact matters instead of showing it. Cut them and let the fact land.
+
+Truth and moral adjectives laid on things are the same reflex in adjective form: "an honest estimate," "flagged honestly," "a genuine improvement," "the actual numbers." An estimate is conservative or rough, a fix works or it doesn't; name the property or cut the word. "Honest" stays for a person, and "real" or "actual" stays where it sets the thing against a fake, a forecast, or a hypothesis ("actual sales against the forecast").
 
 Hedges follow the same logic. One deliberate hedge ("probably," "in most cases") is honest writing. The tell is the reflexive stack: "arguably," "in many ways," "to some extent," "it could be argued," "more often than not" piling up in one paragraph. Keep at most one, and only where the uncertainty is real.
 

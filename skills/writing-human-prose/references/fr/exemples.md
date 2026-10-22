@@ -316,6 +316,22 @@ Les deux premières phrases parlaient de la page, de ce qu'elle remplace et d'un
 
 Le dépassement et sa cause figuraient déjà dans la relecture, si bien que le diagnostic repris et le recomptage, qui ne change rien à la proposition, retardaient celle-ci. La réponse s'ouvre sur la proposition et garde le seul fait absent de la relecture, l'accord à redemander, en rendant le « donc » de la source par un « puisque ». Hors d'un fil, dans une note qui se lit seule, le diagnostic resterait.
 
+## 43. Recadrage sans négation
+
+**Avant.** On croit souvent que les retards de livraison viennent des transporteurs. En réalité, ils naissent à l'entrepôt. À première vue, deux jours de préparation semblent raisonnables. En fait, chaque commande attend la tournée unique du soir.
+
+**Après.** Les retards de livraison naissent à l'entrepôt, où la préparation prend deux jours et où chaque commande attend la tournée unique du soir.
+
+Chaque paire opposait au propos une croyance prêtée à tout le monde, le même renversement que « ce n'est pas X, c'est Y » sans la négation. Les croyances partent et les deux faits se rejoignent dans une phrase. Si le texte avait mesuré la part des transporteurs pour l'écarter, ce fait resterait.
+
+## 44. Mauvaise nouvelle enjolivée
+
+**Avant.** Nous avons le plaisir de vous annoncer que la réouverture de la piscine est reportée à septembre, une belle occasion de peaufiner les nouveaux équipements. Le bassin extérieur, mis en pause pour cette saison, ouvrira un nouveau chapitre l'été prochain.
+
+**Après.** La réouverture de la piscine est reportée à septembre, et le bassin extérieur restera fermé cette saison avant de rouvrir l'été prochain.
+
+Le report et la fermeture étaient présentés comme de bonnes nouvelles. La réécriture les dit simplement et garde la réouverture que la source annonce. La source ne donne pas la cause du report, si bien que la note de livraison la demande à l'auteur au lieu de garder « peaufiner les équipements », qui n'était qu'une conjecture.
+
 ## Suppressions pures
 
 Pour ces familles, le geste est une coupe, et l'« Après » est l'« Avant » débarrassé du tic, sans rien de reformulé ni d'ajouté à la place.

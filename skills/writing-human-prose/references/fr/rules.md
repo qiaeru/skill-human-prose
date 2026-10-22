@@ -62,7 +62,7 @@ Ouvre au besoin les listes de [tournures.md](tournures.md), les patrons de [stru
 
 ## Seuil d'action en français
 
-Le tiret cadratin et ses substituts, le registre d'assistant, la fausse opposition, la mise en scène, l'objection fantôme et le méta-commentaire justifient une correction dès la première occurrence, alors qu'un point-virgule isolé, un connecteur, un participe, une précaution, un adjectif intensif ou un anglicisme qui a son équivalent français (« impacter », « process ») ne comptent qu'en compagnie d'autres tics dans le même passage. Les fautes objectives (typographie, casse, pièges grammaticaux, barre oblique entre deux mots, faux-ami pris dans un sens que le français n'a pas, comme « définitivement » pour « certainement ») se corrigent même isolées, puisqu'aucun auteur ne les choisit. La graphie d'un acronyme (Otan ou OTAN) n'en fait pas partie, puisqu'elle relève d'un choix que seul le mélange dans un même texte rend fautif.
+Le tiret cadratin et ses substituts, le registre d'assistant, la fausse opposition (recadrage sans négation compris), la mise en scène, l'objection fantôme et le méta-commentaire justifient une correction dès la première occurrence, alors qu'un point-virgule isolé, un connecteur, un participe, une précaution, un adjectif intensif ou un anglicisme qui a son équivalent français (« impacter », « process ») ne comptent qu'en compagnie d'autres tics dans le même passage. Les fautes objectives (typographie, casse, pièges grammaticaux, barre oblique entre deux mots, faux-ami pris dans un sens que le français n'a pas, comme « définitivement » pour « certainement ») se corrigent même isolées, puisqu'aucun auteur ne les choisit. La graphie d'un acronyme (Otan ou OTAN) n'en fait pas partie, puisqu'elle relève d'un choix que seul le mélange dans un même texte rend fautif.
 
 ## Vérifications rapides
 
@@ -74,6 +74,9 @@ Passe chaque famille avant de livrer. La liste compte autant que les règles cen
 - Texte nettement plus long que l'original, ou sens déplacé ? Resserre et rétablis.
 - Détail précis lissé en généralité (« de trente à huit minutes » devenu « un gain de productivité ») ? Rétablis le chiffre ou le nom.
 - Mot de portée de la source (« seul », « premier », « la plupart », « tous les deux », « à la fois ») perdu ou déplacé en remaniant la phrase ? Rétablis-le, puisqu'un changement de forme ne change jamais la portée de l'affirmation.
+- Certitude, négation ou condition de la source changée (« pourrait » devenu « va », « suggère » devenu « montre », un « si » ou un « ne… pas » perdu, « certains cas » devenus « tous ») ? Rétablis-la.
+- Expérience, opinion ou réaction prêtée à l'auteur sans appui dans la source ? Retire-la, ou signale le manque.
+- Mauvaise nouvelle enjolivée (un retard devenu « l'occasion d'affiner », une coupe « un nouveau chapitre », le coût d'un arbitrage effacé) ? Rétablis le fait et son coût.
 
 ### Architecture de la phrase
 
@@ -82,6 +85,7 @@ Passe chaque famille avant de livrer. La liste compte autant que les règles cen
 - Phrase contorsionnée pour éviter un cadratin, ou familiarité plaquée sur une prose soignée (« mdr », fausse faute de frappe) ? Écris la phrase simple.
 - Chaîne de participes, trois relatives en cascade ? Casse, redistribue.
 - « Non pas X, mais Y », ou « Non seulement X, mais aussi Y » sans gradation ? « Y », ou « X et Y ».
+- Recadrage sans négation (« On croit souvent que X. En réalité, Y. », « À première vue X. En fait, Y. ») ? Énonce Y, et ne garde X que si le texte prête la croyance à quelqu'un.
 - Fragments publicitaires (« Pas de jargon. Juste l'essentiel. ») ou balancement « Moins de X, plus de Y » ? Reconstruis une phrase pleine.
 - Triade systématique (trois adjectifs, trois propositions cadencées, trois exemples suivis d'une leçon) ? Casse la cadence, développe l'exemple le plus fort.
 - Passif, impersonnelle ou « se voir » suivi d'un infinitif qui escamote un acteur que le texte désigne ailleurs ? Rends-lui le sujet, sinon garde la tournure.
@@ -93,6 +97,7 @@ Passe chaque famille avant de livrer. La liste compte autant que les règles cen
 - Adjectif intensif vide, adverbe en _-ment_ qui n'ajoute rien, trois adjectifs synonymes alignés ? Coupe, ou réduis à un ou deux.
 - Anglicisme IA, faux-ami, « faire sens », « au niveau de », « en termes de », « au sein de » ? Mot français, suivant [tournures.md](tournures.md).
 - Périphrase (« le fait que », « dans la mesure où »), jargon d'institution (« dans le cadre de », « à l'aune de », « problématique ») ou locution latine là où le français courant suffit (_in fine_, _de facto_) ? Mot direct.
+- Adjectif moral ou de vérité posé sur une chose (« une estimation honnête », « signalé en toute honnêteté ») ? Nomme la propriété (« prudente ») ou coupe.
 - Précautions empilées dans un même passage (« il semblerait que », « d'une certaine manière », « sans doute ») ? Garde celle du doute réel.
 - Double négation servie par réflexe (« n'est pas sans intérêt », « ne saurait être ignoré ») ? Affirme.
 - Quantificateur vague (« une multitude de ») ou « fluide » passe-partout ? Dis combien, ou en quoi.
@@ -112,7 +117,7 @@ Passe chaque famille avant de livrer. La liste compte autant que les règles cen
 - Ouverture parasite (« À noter que », « Dans un monde où », « Que vous soyez X ou Y », « Honnêtement », « En tant que X, je ») ou pseudo-clivée d'annonce (« Ce qui est intéressant, c'est que ») ? Énonce directement.
 - Question-relance (« Le résultat ? ») ou fausse révélation (« Ce que personne ne vous dit ») ? Énonce, sans suspense.
 - Commentaire interprétatif (« Comme on le voit », « Autrement dit » qui redit), ou phrase qui dit ce que l'exemple précédent vient de montrer (« Preuve que le calendrier compte ») ? Coupe, le fait suffit.
-- Clôture cliché (« en définitive », « au final »), paragraphe final qui récapitule ou chute finale en métaphore ? Coupe sans récrire et termine sur le dernier fait concret.
+- Clôture cliché (« en définitive », « au final »), paragraphe final qui récapitule, chute finale en métaphore ou question finale qui ne cherche qu'une réaction (« Et vous, qu'en pensez-vous ? ») ? Coupe sans récrire et termine sur le dernier fait concret.
 - Objection fantôme (« Je ne dis pas que », « On pourrait être tenté de ») ou option écartée que personne n'a soulevée ? Coupe et garde l'affirmation, sauf si le texte attribue l'objection à quelqu'un et la réfute.
 - Chute d'une ligne qui redit (« C'est là tout l'enjeu. »), même chute après chaque section, mot scandé ? Coupe, ou fonds dans une phrase qui apporte un fait.
 - Aphorisme ou faux approfondissement (« la vraie question est », « X est la monnaie de Y ») ? Affirmation précise.

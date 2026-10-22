@@ -360,3 +360,23 @@ Each "After" is fluent, natural US English: full sentences that connect, concret
 > "Thanks for flagging the timeout. I'd suggest we raise the gateway timeout for the export route now and open a ticket to split the job into batches. Batching would fix it, but it touches the billing export too, which another team owns."
 
 **Changes:** The reviewer had found the failure and its cause, so the restated diagnosis only delayed the proposal, and the log check proved a point nobody disputed; it can go in the ticket. The reply opens on the proposal and keeps the one fact the reviewer may lack, that batching reaches a job another team owns. Out of a thread, as a standalone incident note, the diagnosis would stay.
+
+## Example 36: Reframe Without a "Not"
+
+**Before:**
+> "Most teams think their deploys are slow because of the test suite. The real culprit is the review queue. At first glance, a two-day wait looks like caution. In reality, it's three approvers who each check the same diff."
+
+**After:**
+> "Deploys wait on the review queue, where a change sits for two days while three approvers each check the same diff."
+
+**Changes:** Each pair set a belief handed to a crowd against the point, the same reversal as "not X but Y" without the "not." The beliefs go and the two facts join in one sentence. Had the text measured the test suite and ruled it out, that would be a fact to keep.
+
+## Example 37: Bad News Brightened
+
+**Before:**
+> "We're excited to share that the mobile app launch is moving to March, giving us an opportunity to refine the experience even further. Offline mode, which we've decided to set aside for now, will get the attention it deserves in a future release."
+
+**After:**
+> "The mobile app launch moves to March, and it will ship without offline mode, which is planned for a later release."
+
+**Changes:** A delay and a dropped feature were dressed as good news. The rewrite states both plainly and keeps the later release the source promises. The source gives no reason for the delay, so the delivery note asks the author for one rather than leaving "to refine the experience" as a guess.

@@ -81,6 +81,7 @@ Ces tournures créent une fausse tension. Énonce le second terme, éventuelleme
 | « Non seulement X, mais aussi Y » | Balancement additif sans gradation (_not only X, but also Y_) |
 | « Cela ne veut pas dire X. Cela veut dire Y. » | Même contraste, scindé sur deux phrases |
 | « X, pas de devinette. » | Queue négative tronquée (_no guessing_) |
+| « On croit souvent que X. En réalité, Y. », « À première vue X. En fait, Y. » | Même renversement sans négation, contre une croyance prêtée à la foule |
 
 Dis Y. « Y compte. » Ou bien, si la nuance vaut la peine, « Y compte davantage que X, qui reste un facteur. » Quand X et Y pèsent le même poids, « non seulement X, mais aussi Y » devient « X et Y ». La variante en fragments, qui cumule la fausse opposition et le hachage, se reconstruit comme dans l'exemple 23 de [exemples.md](exemples.md).
 

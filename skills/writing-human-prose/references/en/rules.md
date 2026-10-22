@@ -52,7 +52,7 @@ The quick checks below are the working list; each rule here gives the principle,
 
 ## Weighing in English
 
-A few tells count on a single instance, wherever they appear: the em dash and its stand-ins, the loud tier of the AI vocabulary in [phrases.md](phrases.md), the not-X-but-Y contrast in any of its forms, the staged line (a one-line closer or kicker, a pull-quote aphorism, a run of ad-copy fragments), an objection nobody raised, meta-commentary, and unmistakable model residue, meaning self-reference as an AI ("As an AI language model," a knowledge-cutoff disclaimer), a trailing offer ("Want me to expand this?"), process narration pasted with the deliverable ("I've analyzed your requirements"), and a chat sign-off ("I hope this helps"). Convention slips are objective errors fixed even alone: a British spelling in US text, Title Case on a common noun mid-sentence, a hyphen kept on a compound after its noun. Everything else counts only in a cluster, including the borderline vocabulary tier, wordy constructions, email boilerplate, and service formulas ("Feel free to," "Certainly!", "Great question"), which people write too. In a first-person draft, a spoken "just," "honestly," or "actually" is voice: thin a cluster and keep the one that sounds like the writer.
+A few tells count on a single instance, wherever they appear: the em dash and its stand-ins, the loud tier of the AI vocabulary in [phrases.md](phrases.md), the not-X-but-Y contrast in any of its forms (the reframe with no "not" included), the staged line (a one-line closer or kicker, a pull-quote aphorism, a run of ad-copy fragments), an objection nobody raised, meta-commentary, and unmistakable model residue, meaning self-reference as an AI ("As an AI language model," a knowledge-cutoff disclaimer), a trailing offer ("Want me to expand this?"), process narration pasted with the deliverable ("I've analyzed your requirements"), and a chat sign-off ("I hope this helps"). Convention slips are objective errors fixed even alone: a British spelling in US text, Title Case on a common noun mid-sentence, a hyphen kept on a compound after its noun. Everything else counts only in a cluster, including the borderline vocabulary tier, wordy constructions, email boilerplate, and service formulas ("Feel free to," "Certainly!", "Great question"), which people write too. In a first-person draft, a spoken "just," "honestly," or "actually" is voice: thin a cluster and keep the one that sounds like the writer.
 
 ## Quick checks
 
@@ -60,10 +60,11 @@ Run each group before delivering. The list binds like the core rules, since it a
 
 ### Fidelity to the source
 
-- Number, cause, contrast, actor, or example that the source doesn't contain, including a "but" or "so" laid between two facts it only set side by side? Remove it, or flag the gap to the author.
+- Number, cause, contrast, actor, example, or experience, opinion, or reaction of the writer that the source doesn't contain, including a "but" or "so" laid between two facts it only set side by side? Remove it, or flag the gap to the author.
 - Text noticeably longer than the original, or a claim shifted by the rewrite? Tighten and restore.
 - Specific detail smoothed into a generic claim ("cut review time from thirty minutes to eight" turned into "improved productivity")? Restore the number or the name.
-- Scope or ranking word of the source ("only," "first," "most," "both," "at once") dropped or shifted while reshaping a sentence? Restore it; a change of form never changes the reach of the claim.
+- Scope or ranking word of the source ("only," "first," "most," "both," "at once") dropped or shifted while reshaping a sentence, or its certainty, negation, or condition changed ("may" turned into "will," "suggests" into "shows," an "if" or a "not" lost, "some cases" grown into "all")? Restore it; a change of form never changes the reach or the certainty of the claim.
+- Bad news brightened by the rewrite or the draft (a delay turned into "a chance to refine," a cut into "a new chapter," the cost of a trade-off dropped)? Restore the plain fact and its cost.
 - Gap filled with a guess ("likely grew up in," "appears to have been founded in the 1990s") or a knowledge disclaimer ("details are limited," "based on available information")? Cut the guess, and the disclaimer with it unless the reader needs to know the gap; flag the gap to the author.
 - Unnamed authority ("experts agree," "observers note," "industry reports") or a list of outlets propping up a claim? Use the source the text names and what it said; otherwise cut.
 
@@ -82,6 +83,7 @@ Run each group before delivering. The list binds like the core rules, since it a
 
 - Empty intensifier ("very," "really," "truly," "incredibly," "deeply," "extremely")? Cut. Meaningful adverb ("slowly," "twice")? Keep.
 - Nominalizations ("make a decision," "conduct an analysis") or wordy connectors ("in order to," "due to the fact that," "prior to") piling up? Use the verb and the short word.
+- Moral or truth adjective laid on a thing ("an honest estimate," "flagged honestly," "a genuine fix," "the actual numbers")? Name the property ("a conservative estimate") or cut the word.
 - Hedges stacked ("arguably," "in many ways," "to some extent" in one paragraph)? Keep at most one.
 - Both-sides menu ("on one hand... on the other," "it depends") dodging a stance? Take a position, then name the trade-off.
 - Loud-tier AI vocabulary ("delve," "leverage," "seamless," "tapestry," "unlock," "harness," "empower")? Replace with the plain word on sight.
@@ -102,7 +104,8 @@ Run each group before delivering. The list binds like the core rules, since it a
 
 ### Formulaic structures
 
-- "Not X. But Y." or "isn't just X; it's Y," including the contrast split across sentences ("This doesn't mean X. It means Y.") and the clipped negative tail (", no guessing")? State Y.
+- "Not X. But Y." or "isn't just X; it's Y," including the contrast split across sentences ("This doesn't mean X. It means Y.") and the clipped negative tail (", no guessing")? State Y; when X holds too ("not only X but also Y"), write "X and Y."
+- Reframe with no "not" ("Most teams think they have a hiring problem. They have a standards problem.", "At first glance X. In reality, Y.")? State Y; keep X only when the text attributes the belief to someone.
 - Objection nobody raised ("I'm not saying," "To be clear," "Don't get me wrong," "One might be tempted to")? Cut the defense; keep an objection only when the text attributes it or a reader would weigh it.
 - "Less X, more Y" or "Think X, not Y" see-saw? Write the full sentence.
 - Negative listing ("It's not A. It's not B. It's C.")? State C.
@@ -116,7 +119,7 @@ Run each group before delivering. The list binds like the core rules, since it a
 - Throat-clearing or fake-relatability opener ("Here's the thing," "Look, I get it," or an opening "Honestly," in neutral or professional prose), or a credentials opener ("As a developer, I can tell you")? Cut to the point.
 - Faux-insight setup ("What nobody tells you," "What most people get wrong")? Cut the setup; the claim stands on its own.
 - Marketing opener ("In a world where," "In today's fast-paced," "Whether you're X or Y") or false range ("from X to Y, and everything in between")? Cut, or name the actual audience and what the text covers.
-- Cliché closer ("In conclusion," "At the end of the day," "Only time will tell"), or a kicker line turning the point into a metaphor or an aphorism? Delete it rather than polish it, and end on the last concrete sentence.
+- Cliché closer ("In conclusion," "At the end of the day," "Only time will tell"), a kicker line turning the point into a metaphor or an aphorism, or a closing question that only fishes for a reaction ("What do you think?")? Delete it rather than polish it, and end on the last concrete sentence.
 - Email boilerplate ("I hope this email finds you well," "I wanted to reach out," "Please don't hesitate to") stacking up? Open with the reason you're writing; close with the concrete next step.
 - Model residue (self-reference as an AI, a trailing "Want me to..." offer, process narration such as "I've analyzed your requirements," a chat sign-off such as "I hope this helps")? Delete it, even once. Service formulas ("Great question," "Certainly!", "Feel free to") opening or closing by reflex? Thin them.
 

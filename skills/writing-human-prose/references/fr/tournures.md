@@ -132,6 +132,7 @@ L'IA donne à ces mots le sens du mot anglais qui leur ressemble.
 | achever | mener à terme | _to achieve_ (= atteindre, obtenir) |
 | versatile | inconstant, changeant | _versatile_ (= polyvalent) |
 | assumer | endosser, prendre sur soi | _to assume_ (= supposer, présumer) |
+| honnête (d'une chose) | passable, convenable (un repas honnête) | _honest_ (= prudent, réaliste, comme dans « une estimation honnête ») |
 
 ## Ouvertures parasites
 
@@ -337,6 +338,7 @@ Le balancement qui refuse de trancher relève du même réflexe, « d'un côt�
 - pour résumer
 - en résumé
 - pour faire court
+- et vous, qu'en pensez-vous ? (question finale qui ne cherche qu'une réaction)
 
 Le paragraphe final qui récapitule ce que le lecteur vient de lire relève du même réflexe, avec ou sans étiquette. Coupe-le et termine sur le dernier point concret, l'enseignement ou la prochaine étape que le texte donne déjà.
 
