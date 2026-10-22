@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## [Unreleased]
 
+### Fixed
+
+- French: no more non-breaking spaces in code files. Comments, file header descriptions, docstrings, and log messages keep plain spaces, and only strings shown to the end user (interface labels, page text, locale values) take them.
+
 ## [1.2.0] - 2026-10-21
 
 ### Added

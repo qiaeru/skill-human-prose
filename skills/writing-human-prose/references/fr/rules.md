@@ -44,7 +44,7 @@ Ouvre au besoin les listes de [tournures.md](tournures.md), les patrons de [stru
 
 13. **Pas de tiret cadratin ni de tiret qui le remplace, pas de barre oblique entre deux mots, et parcimonie sur le deux-points, le point-virgule et le point d'exclamation.** Le cadratin, comme le demi-cadratin espacé ou le double trait d'union mis à sa place, devient virgule, point ou parenthèses, jamais un deux-points ou des points de suspension mis à sa place, et la barre oblique devient « ou » ou « et ». Détail dans [typographie.md](typographie.md).
 
-14. **Respecte la typographie française.** Insécables de la bonne largeur, majuscules accentuées, guillemets français, nombres, heures et ordinaux composés à la française, sans virgule d'Oxford. Détail dans [typographie.md](typographie.md).
+14. **Respecte la typographie française.** Insécables de la bonne largeur, majuscules accentuées, guillemets français, nombres, heures et ordinaux composés à la française, sans virgule d'Oxford. Dans un fichier de code, les insécables vont aux seules chaînes affichées à l'utilisateur, jamais aux commentaires. Détail dans [typographie.md](typographie.md).
 
 15. **Méfie-toi des faux-amis.** « Définitivement » = pour de bon (non « certainement »). « Éventuellement » = peut-être (non « finalement »). « Réaliser » = accomplir (non « se rendre compte »). Table dans [tournures.md](tournures.md).
 
@@ -137,7 +137,7 @@ Passe chaque famille avant de livrer. La liste compte autant que les règles cen
 ### Typographie et mise en forme
 
 - Guillemets droits autour d'une citation, trois points tapés, apostrophe droite dans un rendu soigné ? Guillemets français et caractère « … » partout, apostrophe typographique hors d'une source _markdown_, qui peut garder la droite.
-- Espace ordinaire ou absente avant `;`, `!`, `?`, `%`, `:` ou dans les guillemets, heure ou pourcentage collés (« 14h30 », « 50% ») ? Insécable fine avant `;`, `!`, `?` et `%`, normale avant `:`, fine par défaut dans les guillemets, sans convertir la normale qu'un auteur emploie partout.
+- Espace ordinaire ou absente avant `;`, `!`, `?`, `%`, `:` ou dans les guillemets, heure ou pourcentage collés (« 14h30 », « 50% ») ? Insécable fine avant `;`, `!`, `?` et `%`, normale avant `:`, fine par défaut dans les guillemets, sans convertir la normale qu'un auteur emploie partout. Dans un fichier de code, seules les chaînes affichées à l'utilisateur en prennent, jamais les commentaires.
 - Majuscule non accentuée (« Etat ») ? Restaure.
 - Casse de titre anglaise, nom commun, mois ou jour capitalisés en pleine phrase, majuscule après un deux-points ? Minuscule.
 - Ordinal en « ème », point décimal anglo-saxon, sigle en minuscules, acronyme écrit de deux façons dans le même texte ? Compose à la française, et aligne l'acronyme sur la graphie dominante de l'auteur.

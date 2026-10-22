@@ -70,6 +70,8 @@ Le français impose une espace insécable avant les ponctuations doubles et à l
 
 Dans les guillemets, la fine est le défaut de ce _skill_, mais la normale est aussi correcte, puisque le _Lexique des règles typographiques en usage à l'Imprimerie nationale_ la prescrit. Ne convertis pas le choix qu'un auteur tient d'un bout à l'autre, et corrige seulement l'espace ordinaire ou le mélange des deux largeurs dans un même texte.
 
+Un fichier de code n'en reçoit aucune. Dans un fichier source, de configuration ou de script, les commentaires, l'en-tête qui décrit le fichier, les _docstrings_ et les messages de journal gardent l'espace ordinaire, parce qu'ils se lisent dans un éditeur, où une insécable invisible fausse la recherche, les différences et les outils. Seule une chaîne affichée à l'utilisateur final (libellé d'interface, texte d'une page, valeur d'un fichier de _locales_) prend les insécables, comme toute prose rendue.
+
 ## Majuscules accentuées
 
 Les majuscules portent leurs accents en français (« État », « À propos », « Œuvre »), et l'IA les omet souvent.
