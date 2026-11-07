@@ -44,6 +44,8 @@ A binary contrast knocks down a claim nobody made, so that the real point arrive
 | "stops being X and starts being Y" | A transformation with no mechanism behind it |
 | "..., no guessing" / "..., no setup required" (clipped negative tail) | Denies something no one claimed, to make the positive half sound larger |
 | "Most teams think X. They have Y." / "At first glance X. In reality, Y." / "Everyone talks about X. The real issue is Y." | The same reversal with no "not," staged against a belief the text hands to a crowd |
+| "Rather than adding a new tool, it connects the old ones." / "prioritizing X rather than Y" | The same contrast reversed; keep it between options a reader would weigh |
+| "should be read as X rather than Y" / "the available information does not establish" | A corrective disclaimer the source never gave; a caveat from the source stays |
 
 **Instead:** State Y directly, in a full sentence. If the contrast with X carries real information, fold it in as a clause: "The problem is Y, not X." When X is true as well, as in "It doesn't just format the code, it lints it," keep both halves: "It formats and lints the code." The test: does the negative half correct a belief the reader actually holds, or one nobody claimed?
 
@@ -96,9 +98,10 @@ The inverse failure. Stripping every sentence to a slogan produces a different k
 | --- | --- |
 | Every sentence under ten words | Telegraphic monotone |
 | Paragraph after paragraph of two-sentence punches | Slide deck, not prose |
+| One sentence per line with blank lines between, in a post | A column, not a paragraph; group the sentences that belong together |
 | Verbless fragments as standalone sentences | Drama without content |
 
-**Instead:** Let most sentences run 12 to 25 words and carry one idea each, connected by ordinary syntax ("because," "which," "so," "although") where the source gives the link, and by a plain "and" or a period where it gives none. Save the short sentence for the one moment that earns it.
+**Instead:** Let each sentence carry one idea, at the length the idea needs, connected by ordinary syntax ("because," "which," "so," "although") where the source gives the link, and by a plain "and" or a period where it gives none. Save the short sentence for the one moment that earns it.
 
 A text corrected for fragments slides easily into the opposite habit: every sentence welded to the next by the same conjunction, "because" at every seam or "which" on every clause, and no sentence left standing on its own. That monotony is as mechanical as the staccato it replaced. Alternate the connective, let a short sentence follow a long one, and never join two facts by a cause or a contrast the source doesn't give: a "but" between a Thursday deploy and a postponed migration invents an opposition, as a "so" invents a consequence.
 
@@ -153,6 +156,8 @@ A setup promises an insight and makes the reader wait for it.
 | "Sound familiar?" | Assumes a shared experience to win the reader over |
 | "What if [reframe]?" / "What if I told you..." | A plain claim staged as a revelation |
 | "Think about it:" | Tells the reader to think instead of giving them something to think about |
+| A second hook before the first pays off ("Most tools stop there. This one doesn't.") | The reader waits twice; after one hook, explain |
+| A comparison the text can't back ("the two things the others skip") | Name the rival and the fact, or describe the thing alone |
 
 **Instead:** Make the point and leave the conclusion to the reader. In a casual first-person text, a shared moment the writer jokes about with the reader ("You know that moment when...? Yeah, me too.") is voice rather than a setup, and stays. The stock openers that do the same job in one phrase ("Here's what I mean:", "And that's okay.") sit in [phrases.md](phrases.md) under throat-clearing and meta-commentary.
 
@@ -238,6 +243,7 @@ A comma plus an "-ing" clause hangs a consequence or a judgment on the end of th
 | A heading over a one- or two-sentence section | Structure heavier than its content; merge the section into a neighbor or drop the heading |
 | A top-level heading that repeats the document title | The title stated once is enough |
 | A heading written for effect ("The decision, on one screen") | Name what the section holds ("How the six options compare") |
+| A heading naming a part of the document ("Overview," "Key Takeaways," "Conclusion") | When the edit covers structure, name the section's subject from its content; a reference document keeps its conventional headings |
 
 ## Text That Describes Itself
 
@@ -379,6 +385,7 @@ A bullet list strips out the connectors ("because," "so," "although") that carry
 | Every paragraph closes on a punch | Let some paragraphs end on a plain fact |
 | Three consecutive sentences of matching length | Break one |
 | Every sentence opening with the same subject | Vary the opener |
+| Half the sentences opening on a fronted clause ("By leveraging X,", "In addition,") | Let subject and verb arrive early; keep a fronted clause that sets a real time, place, or condition |
 
 Paragraph length and shape sit under Paragraph Template, and the same conjunction at every seam under Over-Compression.
 

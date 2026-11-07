@@ -32,6 +32,7 @@ Sommaire, une section par famille, à retrouver par son titre :
 - **Flèches et filets.** La flèche (→) en guise de connecteur ou de puce, le filet horizontal entre chaque section et le titre de premier niveau qui répète le titre du document décorent sans informer. Remplace la flèche par le mot (« donne », « puis »), retire les filets et laisse le titre paraître une fois.
 - **Titre redit.** Supprime le paragraphe d'une ligne qui reformule le titre qu'il suit (« ## Performance », puis « La vitesse compte. »).
 - **Titre sur deux phrases.** Fonds la section de deux phrases dans sa voisine et garde les titres pour les sections qui en ont la taille.
+- **Titre générique.** Quand la correction porte sur la structure, remplace le titre qui nomme une partie du document (« Points clés », « À retenir », « Conclusion ») par le sujet de la section. Un document de référence garde ses titres d'usage.
 - **Majuscule après le deux-points.** En cours de phrase, ce qui suit un deux-points commence par une minuscule (« Le résultat : une équipe plus rapide »), la capitale étant réservée au nom propre et à la citation complète.
 
 ## Balisage dans un canal qui ne rend pas le _markdown_

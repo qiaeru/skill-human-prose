@@ -446,6 +446,7 @@ Une autorité anonyme soutient une affirmation, ou une liste de médias soutient
 - « certains critiques », « plusieurs publications »
 - « cité par » suivi d'une liste de médias, « repris par la presse spécialisée »
 - « une présence active sur les réseaux sociaux », « plus de N abonnés »
+- « plébiscité par des milliers d'équipes », « adopté par nos clients du monde entier »
 
 ## Liens vagues
 
@@ -487,6 +488,8 @@ Chaque image éculée recouvre une phrase plate, qu'il faut écrire à sa place.
 | le nerf de la guerre | nomme la ressource et son effet |
 | la partie émergée de l'iceberg | nomme ce qui reste caché |
 | un cercle vertueux, un cercle vicieux | nomme les deux effets qui s'entretiennent |
+| X est le nouveau pétrole | dis ce que X apporte à ce lecteur |
+| un copilote, pas un pilote automatique | dis ce que l'outil fait et ce que la personne décide encore |
 | un voyage, une aventure (au figuré, calque de _journey_) | processus, étapes, ou nomme-les |
 | voyez cela comme (par réflexe) | décris la chose, garde l'analogie qui explique un mécanisme |
 

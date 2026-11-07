@@ -14,7 +14,7 @@ Open [phrases.md](phrases.md) when vocabulary or stock phrases cluster, [structu
 
 The quick checks below are the working list; each rule here gives the principle, its counterweight, and where the detail lives.
 
-1. **Write sentences that flow.** Most sentences carry one idea in roughly 12 to 25 words and connect to their neighbors; a short sentence is a tool for emphasis, once per stretch, and stacked fragments are as much a tell as bloat. The counterweight: the same conjunction at every seam is as mechanical as the fragments, and joining never invents a link, so two facts the source only sets side by side get a plain "and" or two sentences, never a "but," "so," or "because." A link the text makes evident without naming it (a closure announced, then appointments to move) counts as given and gets written. See [structures.md](structures.md).
+1. **Write sentences that flow.** Most sentences carry one idea and connect to their neighbors, and their length follows the idea instead of settling into one band; a short sentence is a tool for emphasis, once per stretch, and stacked fragments are as much a tell as bloat. The counterweight: the same conjunction at every seam is as mechanical as the fragments, and joining never invents a link, so two facts the source only sets side by side get a plain "and" or two sentences, never a "but," "so," or "because." A link the text makes evident without naming it (a closure announced, then appointments to move) counts as given and gets written. See [structures.md](structures.md).
 
 2. **Cut filler phrases.** Throat-clearing openers, announced emphasis, marketing openers and closers, email boilerplate, and chat artifacts each have a family in [phrases.md](phrases.md).
 
@@ -44,7 +44,7 @@ The quick checks below are the working list; each rule here gives the principle,
 
 15. **Vary everything that repeats.** That covers sentence lengths, openers, paragraph endings, item counts in lists, and the paragraph mold. The counterweight: the thing under discussion keeps its name, since rotating synonyms for one referent makes the reader count several. See [structures.md](structures.md).
 
-16. **Follow US conventions.** Use the serial comma ("A, B, and C"), US spellings ("color," "organize," "toward"), and double quotation marks with commas and periods inside, and keep common nouns lowercase mid-sentence ("our marketing team"). A text written in British, Canadian, or Australian English keeps its own spelling, punctuation, and quotation marks; every other rule applies unchanged.
+16. **Follow US conventions.** Use the serial comma ("A, B, and C"), US spellings ("color," "organize," "toward"), and double quotation marks with commas and periods inside, and keep common nouns lowercase mid-sentence ("our marketing team"). A text written in another variety (British, Canadian, Australian, Indian) keeps its own spelling, punctuation, quotation marks, and idioms ("preponed," "do the needful"); every other rule applies unchanged.
 
 17. **Prefer verbs to nominalizations, and cut wordy connectors.** "Decide" beats "make a decision," "to" beats "in order to," and a real subject beats "There is/There are." See [phrases.md](phrases.md).
 
@@ -52,7 +52,7 @@ The quick checks below are the working list; each rule here gives the principle,
 
 ## Weighing in English
 
-A few tells count on a single instance, wherever they appear: the em dash and its stand-ins, the loud tier of the AI vocabulary in [phrases.md](phrases.md), the not-X-but-Y contrast in any of its forms (the reframe with no "not" included), the staged line (a one-line closer or kicker, a pull-quote aphorism, a run of ad-copy fragments), an objection nobody raised, meta-commentary, and unmistakable model residue, meaning self-reference as an AI ("As an AI language model," a knowledge-cutoff disclaimer), a trailing offer ("Want me to expand this?"), process narration pasted with the deliverable ("I've analyzed your requirements"), and a chat sign-off ("I hope this helps"). Convention slips are objective errors fixed even alone: a British spelling in US text, Title Case on a common noun mid-sentence, a hyphen kept on a compound after its noun. Everything else counts only in a cluster, including the borderline vocabulary tier, wordy constructions, email boilerplate, and service formulas ("Feel free to," "Certainly!", "Great question"), which people write too. In a first-person draft, a spoken "just," "honestly," or "actually" is voice: thin a cluster and keep the one that sounds like the writer.
+A few tells count on a single instance, wherever they appear: the em dash and its stand-ins, the loud tier of the AI vocabulary in [phrases.md](phrases.md), the not-X-but-Y contrast in any of its forms (the reframe with no "not" included), the staged line (a one-line closer or kicker, a pull-quote aphorism, a run of ad-copy fragments), an objection nobody raised, meta-commentary, and unmistakable model residue, meaning self-reference as an AI ("As an AI language model," a knowledge-cutoff disclaimer), a trailing offer ("Want me to expand this?"), process narration pasted with the deliverable ("I've analyzed your requirements"), and a chat sign-off ("I hope this helps"). A rewrite still removes every em dash, but an audit marks a lone one low, since careful writers use it and it proves little without other tells. Convention slips are objective errors fixed even alone: a British spelling in US text, Title Case on a common noun mid-sentence, a hyphen kept on a compound after its noun. Everything else counts only in a cluster, including the borderline vocabulary tier, wordy constructions, email boilerplate, and service formulas ("Feel free to," "Certainly!", "Great question"), which people write too. In a first-person draft, a spoken "just," "honestly," or "actually" is voice: thin a cluster and keep the one that sounds like the writer. Plain habits ("there is," "in order to," a lone "very" or "perhaps") and the stiff phrasing of a second-language writer aren't tells, so thin a stack and leave the rest.
 
 ## Quick checks
 
@@ -63,7 +63,7 @@ Run each group before delivering. The list binds like the core rules, since it a
 - Number, cause, contrast, actor, example, or experience, opinion, or reaction of the writer that the source doesn't contain, including a "but" or "so" laid between two facts it only set side by side? Remove it, or flag the gap to the author.
 - Text noticeably longer than the original, or a claim shifted by the rewrite? Tighten and restore.
 - Specific detail smoothed into a generic claim ("cut review time from thirty minutes to eight" turned into "improved productivity")? Restore the number or the name.
-- Scope or ranking word of the source ("only," "first," "most," "both," "at once") dropped or shifted while reshaping a sentence, or its certainty, negation, or condition changed ("may" turned into "will," "suggests" into "shows," an "if" or a "not" lost, "some cases" grown into "all")? Restore it; a change of form never changes the reach or the certainty of the claim.
+- Scope or ranking word of the source ("only," "first," "most," "both," "at once") dropped or shifted while reshaping a sentence, or its certainty, negation, condition, or order of events changed ("may" turned into "will," "suggests" into "shows," an "if" or a "not" lost, "some cases" grown into "all," "linked to" into "caused by," events told in a new order)? Restore it; a change of form never changes the reach or the certainty of the claim.
 - Bad news brightened by the rewrite or the draft (a delay turned into "a chance to refine," a cut into "a new chapter," the cost of a trade-off dropped)? Restore the plain fact and its cost.
 - Gap filled with a guess ("likely grew up in," "appears to have been founded in the 1990s") or a knowledge disclaimer ("details are limited," "based on available information")? Cut the guess, and the disclaimer with it unless the reader needs to know the gap; flag the gap to the author.
 - Unnamed authority ("experts agree," "observers note," "industry reports") or a list of outlets propping up a claim? Use the source the text names and what it said; otherwise cut.
@@ -74,8 +74,9 @@ Run each group before delivering. The list binds like the core rules, since it a
 - Same conjunction at every seam, or no sentence left standing alone across a paragraph? Vary the connective and the length.
 - Sentence contorted to dodge an em dash, or a bolted-on "lol," lowercase "i," or fake typo? That's the over-corrected tell; write the plain sentence.
 - Three consecutive sentences of matching length? Break one.
+- Paragraphs on end with every sentence in one length band and nothing but periods and commas? Vary the lengths, and use the parenthesis, colon, or semicolon the meaning calls for.
 - Triad cadence everywhere ("clear, concise, and compelling")? Vary item counts; two or one often beats three.
-- Same word or sentence opener repeated at close range? Vary.
+- Same word, sentence opener, or fronted clause ("By using X,") repeated at close range? Vary.
 - One-sentence paragraph restating the paragraph before it, or the same closer after several sections? Cut the repeat.
 - Every paragraph built on the same mold (topic sentence, explanation, example, transition), or all of the same length? Open one on a fact and another on a consequence, let one run short, and cut the transition where the next paragraph follows on its own.
 
@@ -97,7 +98,7 @@ Run each group before delivering. The list binds like the core rules, since it a
 
 ### Actors and voice
 
-- "There is/There are" opening a sentence? Rewrite around a real subject.
+- "There is/There are" opening sentence after sentence? Rewrite around a real subject.
 - "It is essential/important to..." with no actor? Name who must act.
 - Passive hiding a known actor? Name them up front.
 - Inanimate thing doing a human verb ("the decision emerged"), or given a mind ("the dashboard understands," "the roadmap wants to")? Name the person the text points to, or say what the thing does; if it points to no one, keep the impersonal form.
@@ -106,6 +107,7 @@ Run each group before delivering. The list binds like the core rules, since it a
 
 - "Not X. But Y." or "isn't just X; it's Y," including the contrast split across sentences ("This doesn't mean X. It means Y.") and the clipped negative tail (", no guessing")? State Y; when X holds too ("not only X but also Y"), write "X and Y."
 - Reframe with no "not" ("Most teams think they have a hiring problem. They have a standards problem.", "At first glance X. In reality, Y.")? State Y; keep X only when the text attributes the belief to someone.
+- "Rather than" naming an X nobody proposed ("Rather than adding a new tool, it connects the old ones."), or a corrective disclaimer the source doesn't give ("should be read as X rather than Y," "the available information does not establish")? State Y; keep a "rather than" between options a reader would weigh, and any caveat from the source.
 - Objection nobody raised ("I'm not saying," "To be clear," "Don't get me wrong," "One might be tempted to")? Cut the defense; keep an objection only when the text attributes it or a reader would weigh it.
 - "Less X, more Y" or "Think X, not Y" see-saw? Write the full sentence.
 - Negative listing ("It's not A. It's not B. It's C.")? State C.
@@ -141,7 +143,7 @@ Run each group before delivering. The list binds like the core rules, since it a
 - Bold emphasis, ALL CAPS, scare quotes around an ordinary word, or emoji in prose? Remove; rewrite if the word needs weight.
 - Bold-label lead-in ("**Speed:** ..."), `---` divider, or emoji or arrow (→) as a bullet or heading? Drop the label, use paragraph breaks, use plain markers.
 - Markdown (asterisks, hashes, list dashes) in a channel that won't render it (a plain-text email, a text message, a chat reply)? Write the sentence without markup.
-- Heading restated by its first sentence, a top-level heading repeating the document title, a heading over a one- or two-sentence section, or a heading written for effect ("The decision, on one screen")? Cut the repeat; merge the short section into its neighbor; name what the section holds.
+- Heading restated by its first sentence, a top-level heading repeating the document title, a heading over a one- or two-sentence section, a heading written for effect ("The decision, on one screen"), or one naming a part of the document ("Key Takeaways")? Cut the repeat; merge the short section into its neighbor; name what the section holds.
 - Hyphen kept on a compound after its noun ("the report is high-quality")? Hyphenate before the noun only, unless the dictionary always hyphenates the word ("third-party").
 - Semicolon where a period flows better? Replace. Keep it only to balance two related clauses.
 - Colon that only announces ("Here's the key insight:")? Cut the announcement.

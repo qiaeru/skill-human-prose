@@ -6,6 +6,22 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## [Unreleased]
 
+### Added
+
+- A reversed contrast ("Rather than adding a new tool, it connects the old ones.") and a corrective disclaimer the source never gave, in both languages.
+- Fidelity checks also cover the order of events and a link grown into a cause ("linked to" turned into "caused by").
+- A check for paragraphs held to one sentence length with nothing but periods and commas.
+- Catalog entries for fronted clauses at the head of sentence after sentence, a second hook, a comparison the text can't back, empty social proof, headings that name a part of the document, one-sentence-per-line posts, and two stock metaphors. English also lists words recent models lean on, in the density tier.
+- Evals: an Indian English email and a Quebec French email keep their idioms and vocabulary.
+
+### Changed
+
+- An audit marks a lone em dash low priority, since it proves little alone; a rewrite still removes it.
+- English drops the "12 to 25 words" target, so sentence length follows the idea.
+- A text in another variety keeps its idioms, with Indian English named; French now protects Quebec, Belgian, and Swiss usage.
+- Plain habits ("there is," "in order to," a lone "very") and a second-language writer's stiff phrasing aren't tells.
+- A request to get past a detector also gets no broken punctuation.
+
 ## [1.3.1] - 2026-10-23
 
 ### Changed

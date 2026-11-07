@@ -6,7 +6,7 @@ Chaque « Après » articule sa phrase par subordination, par apposition ou,
 
 **Avant.** Le résultat tient. La méthode marche. L'équipe est satisfaite.
 
-**Après.** La méthode marche et le résultat tient, à la satisfaction de l'équipe.
+**Après.** Le résultat tient, la méthode marche et l'équipe est satisfaite.
 
 La source ne dit pas que l'un explique l'autre, si bien que la réécriture rassemble les trois faits sans leur prêter de cause.
 
@@ -296,7 +296,7 @@ La volonté revient à qui veut, ici la société que la source nomme, alors que
 
 **Avant.** L'atelier ouvre lundi. Le parking est en travaux. Les inscriptions ferment vendredi.
 
-**Après.** L'atelier ouvre lundi, les inscriptions ferment vendredi et le parking est en travaux.
+**Après.** L'atelier ouvre lundi, le parking est en travaux et les inscriptions ferment vendredi.
 
 Rien dans la source ne relie ces trois faits, si bien que la réécriture les coordonne sans « mais », « alors que » ni « donc », qui leur prêteraient une opposition ou une cause.
 

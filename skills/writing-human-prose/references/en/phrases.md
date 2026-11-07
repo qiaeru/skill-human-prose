@@ -136,6 +136,8 @@ A worn image standing in for the specific claim. Each one has a plain sentence u
 | Move the needle | Name the number that changed |
 | At the intersection of X and Y | Say what the thing does with both |
 | A symphony / a dance / a ballet of | Name the parts and how they fit |
+| X is the new oil | Say what X does for this reader |
+| A copilot, not an autopilot | Say what the tool does and what the person still decides |
 | A journey (figurative: "your learning journey") | Process, path; or name the steps |
 | Think of it as [analogy] (as a reflex) | Describe the thing; keep an analogy that explains a mechanism |
 
@@ -217,6 +219,8 @@ The borderline tier holds ordinary English words that become a tell by density. 
 | Aims to | Say what it does, not what it intends |
 | Vibrant | Name what is happening there |
 | Resonate (with) | Appeal to, matter to; or say who agreed and why |
+
+Watch lists age with each model. Recent output leans on "clearer," "dependable," "echoed," "practical," "prioritize," "steady," and "universally." Each is an ordinary word, so thin them only when several gather in one passage.
 
 ## Business Jargon
 
@@ -441,6 +445,7 @@ An unnamed authority stands in for what was said, or a list of prestige outlets 
 - "several publications" / "cited in [a list of outlets]" / "featured in"
 - "trade publications" / "independent coverage"
 - "an active social media presence" / "over N followers"
+- "trusted by thousands of teams" / "loved by customers worldwide"
 
 When the text names the real source and what it said, use that. Otherwise cut the unsupported claim or the list. Never invent a source; a missing citation on its own is not a tell, since most writing is unsourced.
 

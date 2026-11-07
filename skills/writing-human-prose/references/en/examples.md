@@ -178,9 +178,9 @@ Each "After" is fluent, natural US English: full sentences that connect, concret
 > "Culture isn't what you say. It's what you tolerate. And what you tolerate becomes who you are."
 
 **After:**
-> "A team's culture shows in what it tolerates rather than in what it says about itself, and over time the tolerated behavior becomes the norm."
+> "Culture is what you tolerate, and that ends up defining you."
 
-**Changes:** The aphorism chain became one working sentence; the insight survived without the poster format and without an example the source doesn't give.
+**Changes:** The fragment chain became one sentence. The source gives no case, so the claim stays general, and the gap goes to the author rather than an invented example.
 
 ## Example 19: Bulleted Argument
 

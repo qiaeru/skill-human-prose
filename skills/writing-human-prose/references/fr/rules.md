@@ -44,7 +44,7 @@ Ouvre au besoin les listes de [tournures.md](tournures.md), les patrons de [stru
 
 13. **Pas de tiret cadratin ni de tiret qui le remplace, pas de barre oblique entre deux mots, et parcimonie sur le deux-points, le point-virgule et le point d'exclamation.** Le cadratin, comme le demi-cadratin espacé ou le double trait d'union mis à sa place, devient virgule, point ou parenthèses, jamais un deux-points ou des points de suspension mis à sa place, et la barre oblique devient « ou » ou « et ». Détail dans [typographie.md](typographie.md).
 
-14. **Respecte la typographie française.** Insécables de la bonne largeur, majuscules accentuées, guillemets français, nombres, heures et ordinaux composés à la française, sans virgule d'Oxford. Dans un fichier de code, les insécables vont aux seules chaînes affichées à l'utilisateur, jamais aux commentaires. Détail dans [typographie.md](typographie.md).
+14. **Respecte la typographie française.** Insécables de la bonne largeur, majuscules accentuées, guillemets français, nombres, heures et ordinaux composés à la française, sans virgule d'Oxford. Dans un fichier de code, les insécables vont aux seules chaînes affichées à l'utilisateur, jamais aux commentaires. Un texte québécois, belge ou suisse garde son lexique (« courriel », « septante ») et ses usages. Détail dans [typographie.md](typographie.md).
 
 15. **Méfie-toi des faux-amis.** « Définitivement » = pour de bon (non « certainement »). « Éventuellement » = peut-être (non « finalement »). « Réaliser » = accomplir (non « se rendre compte »). Table dans [tournures.md](tournures.md).
 
@@ -62,7 +62,7 @@ Ouvre au besoin les listes de [tournures.md](tournures.md), les patrons de [stru
 
 ## Seuil d'action en français
 
-Le tiret cadratin et ses substituts, le registre d'assistant, la fausse opposition (recadrage sans négation compris), la mise en scène, l'objection fantôme et le méta-commentaire justifient une correction dès la première occurrence, alors qu'un point-virgule isolé, un connecteur, un participe, une précaution, un adjectif intensif ou un anglicisme qui a son équivalent français (« impacter », « process ») ne comptent qu'en compagnie d'autres tics dans le même passage. Les fautes objectives (typographie, casse, pièges grammaticaux, barre oblique entre deux mots, faux-ami pris dans un sens que le français n'a pas, comme « définitivement » pour « certainement ») se corrigent même isolées, puisqu'aucun auteur ne les choisit. La graphie d'un acronyme (Otan ou OTAN) n'en fait pas partie, puisqu'elle relève d'un choix que seul le mélange dans un même texte rend fautif.
+Le tiret cadratin et ses substituts, le registre d'assistant, la fausse opposition (recadrage sans négation compris), la mise en scène, l'objection fantôme et le méta-commentaire justifient une correction dès la première occurrence, alors qu'un point-virgule isolé, un connecteur, un participe, une précaution, un adjectif intensif ou un anglicisme qui a son équivalent français (« impacter », « process ») ne comptent qu'en compagnie d'autres tics dans le même passage. Les fautes objectives (typographie, casse, pièges grammaticaux, barre oblique entre deux mots, faux-ami pris dans un sens que le français n'a pas, comme « définitivement » pour « certainement ») se corrigent même isolées, puisqu'aucun auteur ne les choisit. La graphie d'un acronyme (Otan ou OTAN) n'en fait pas partie, puisqu'elle relève d'un choix que seul le mélange dans un même texte rend fautif. Une réécriture retire tout cadratin, mais un audit marque bas le cadratin isolé, que de bons auteurs emploient et qui prouve peu sans autres tics. La raideur d'un auteur non natif n'est pas un tic.
 
 ## Vérifications rapides
 
@@ -74,7 +74,7 @@ Passe chaque famille avant de livrer. La liste compte autant que les règles cen
 - Texte nettement plus long que l'original, ou sens déplacé ? Resserre et rétablis.
 - Détail précis lissé en généralité (« de trente à huit minutes » devenu « un gain de productivité ») ? Rétablis le chiffre ou le nom.
 - Mot de portée de la source (« seul », « premier », « la plupart », « tous les deux », « à la fois ») perdu ou déplacé en remaniant la phrase ? Rétablis-le, puisqu'un changement de forme ne change jamais la portée de l'affirmation.
-- Certitude, négation ou condition de la source changée (« pourrait » devenu « va », « suggère » devenu « montre », un « si » ou un « ne… pas » perdu, « certains cas » devenus « tous ») ? Rétablis-la.
+- Certitude, négation, condition ou ordre des faits de la source changés (« pourrait » devenu « va », « suggère » devenu « montre », un « si » ou un « ne… pas » perdu, « certains cas » devenus « tous », « lié à » devenu « causé par », faits racontés dans un autre ordre) ? Rétablis-les.
 - Expérience, opinion ou réaction prêtée à l'auteur sans appui dans la source ? Retire-la, ou signale le manque.
 - Mauvaise nouvelle enjolivée (un retard devenu « l'occasion d'affiner », une coupe « un nouveau chapitre », le coût d'un arbitrage effacé) ? Rétablis le fait et son coût.
 
@@ -82,10 +82,12 @@ Passe chaque famille avant de livrer. La liste compte autant que les règles cen
 
 - Plus de trois phrases courtes consécutives sans subordination ? Reconstruis.
 - Même subordonnant à chaque phrase, ou plus une seule phrase brève sur tout un paragraphe ? Varie le liant et la longueur.
+- Paragraphes entiers aux phrases de même longueur, sans autre ponctuation que la virgule et le point ? Varie les longueurs, avec la parenthèse, le deux-points ou le point-virgule que le sens demande.
 - Phrase contorsionnée pour éviter un cadratin, ou familiarité plaquée sur une prose soignée (« mdr », fausse faute de frappe) ? Écris la phrase simple.
 - Chaîne de participes, trois relatives en cascade ? Casse, redistribue.
 - « Non pas X, mais Y », ou « Non seulement X, mais aussi Y » sans gradation ? « Y », ou « X et Y ».
 - Recadrage sans négation (« On croit souvent que X. En réalité, Y. », « À première vue X. En fait, Y. ») ? Énonce Y, et ne garde X que si le texte prête la croyance à quelqu'un.
+- Faux « plutôt que » (« Plutôt que d'ajouter un outil, il relie les anciens », alors que personne n'a proposé l'outil) ou mise en garde absente de la source (« à lire comme X plutôt que comme Y », « les éléments disponibles ne permettent pas d'établir ») ? Énonce Y, en gardant le choix entre options réelles et la réserve de la source.
 - Fragments publicitaires (« Pas de jargon. Juste l'essentiel. ») ou balancement « Moins de X, plus de Y » ? Reconstruis une phrase pleine.
 - Triade systématique (trois adjectifs, trois propositions cadencées, trois exemples suivis d'une leçon) ? Casse la cadence, développe l'exemple le plus fort.
 - Passif, impersonnelle ou « se voir » suivi d'un infinitif qui escamote un acteur que le texte désigne ailleurs ? Rends-lui le sujet, sinon garde la tournure.
@@ -150,7 +152,7 @@ Passe chaque famille avant de livrer. La liste compte autant que les règles cen
 - Gras d'emphase semé dans la prose, ou paragraphe mué en intitulés en gras suivis d'un deux-points ? Change la phrase, ou reviens à la prose articulée.
 - Balisage _markdown_ dans un canal qui ne le rend pas (texte brut, SMS, messagerie) ? Écris sans balisage.
 - Émoji, pictogramme ou flèche (→) dans la prose ? Remplace par le mot.
-- Titre redit par la phrase qui le suit, filet entre chaque section, titre sur une section de deux phrases, titre de liste (« 7 façons de ») ou titre écrit pour l'effet (« La décision, en un écran ») ? Coupe ou fonds, et nomme ce que la section contient.
+- Titre redit par la phrase qui le suit, filet entre chaque section, titre sur une section de deux phrases, titre de liste (« 7 façons de »), titre réduit à une partie du document (« Points clés ») ou titre écrit pour l'effet (« La décision, en un écran ») ? Coupe ou fonds, et nomme ce que la section contient.
 
 ### Registre d'assistant
 

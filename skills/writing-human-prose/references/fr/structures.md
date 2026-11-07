@@ -81,6 +81,8 @@ Ces tournures créent une fausse tension. Énonce le second terme, éventuelleme
 | « Non seulement X, mais aussi Y » | Balancement additif sans gradation (_not only X, but also Y_) |
 | « Cela ne veut pas dire X. Cela veut dire Y. » | Même contraste, scindé sur deux phrases |
 | « X, pas de devinette. » | Queue négative tronquée (_no guessing_) |
+| « Plutôt que d'ajouter un outil, il relie les anciens. » | Même contraste renversé, à garder entre des options que le lecteur pèse |
+| « À lire comme X plutôt que comme Y », « les éléments disponibles ne permettent pas d'établir » | Mise en garde que la source ne donne pas, alors que sa réserve à elle reste |
 | « On croit souvent que X. En réalité, Y. », « À première vue X. En fait, Y. » | Même renversement sans négation, contre une croyance prêtée à la foule |
 
 Dis Y. « Y compte. » Ou bien, si la nuance vaut la peine, « Y compte davantage que X, qui reste un facteur. » Quand X et Y pèsent le même poids, « non seulement X, mais aussi Y » devient « X et Y ». La variante en fragments, qui cumule la fausse opposition et le hachage, se reconstruit comme dans l'exemple 23 de [exemples.md](exemples.md).
@@ -145,6 +147,8 @@ Ces amorces annoncent l'idée au lieu de la livrer.
 - « Plongée au cœur de X. »
 - « Dans cet article, nous allons voir... »
 - la question posée pour y répondre aussitôt soi-même
+- la seconde accroche avant que la première ait livré quoi que ce soit (« La plupart des outils s'arrêtent là. Pas celui-ci. »)
+- la comparaison que le texte ne soutient pas (« les deux choses que les autres oublient »), à garder avec un concurrent nommé et un fait
 
 Entre dans le propos. Les fausses révélations et les commentaires interprétatifs sont listés dans [tournures.md](tournures.md).
 
@@ -155,6 +159,8 @@ En cours de texte, la question-relance (« Le résultat ? Une équipe plus r
 Le paragraphe d'une seule phrase qui redit le paragraphe précédent (« C'est là tout l'enjeu. », « Tout est là. », « Voilà le vrai gain. »), la même chute servie après chaque section, l'injonction à relire (« Relisez cette phrase. », « Prenez le temps de le mesurer. »), la rangée de fragments (« Aucun _a priori_. Aucune nostalgie. ») et le mot scandé point par point ou en capitales (« chaque. jour. ») arrêtent le lecteur sur une idée au lieu d'en ajouter une. Coupe la chute qui répète et fonds les fragments dans une phrase qui affirme quelque chose de précis, alors que la phrase courte qui apporte un fait neuf garde l'accent.
 
 La chute finale du texte, celle qui tourne le propos en métaphore, en aphorisme ou en formule à retenir (« L'avenir n'arrive pas, il est déjà là. »), suit un régime plus strict. Supprime-la sans chercher une métaphore plus juste ni sauver son rythme, et termine sur la phrase concrète la plus claire que le texte contient déjà. Si la fin réclame une fermeture, ajoute l'enseignement ou la prochaine étape que le texte donne, en une phrase plate. Voir les exemples 26 et 37 de [exemples.md](exemples.md).
+
+Dans un post, une phrase par ligne séparée de blancs relève du même réflexe, une colonne au lieu d'un paragraphe. Regroupe les phrases qui vont ensemble.
 
 ## Périphrases
 
@@ -244,6 +250,10 @@ Le nom de la chose dont parle le texte, lui, ne tourne pas. Un agent, un fichier
 L'autre forme de répétition est syntaxique. Trois phrases qui commencent par le même mot (« Cette solution... Cette solution... Cette solution... ») ou par la même structure (« On voit que..., On note que..., On observe que... ») sonnent comme une copie automatique. Varie l'attaque, déplace un complément en tête, alterne phrase simple et phrase complexe.
 
 Deux répétitions plus discrètes trahissent aussi la machine, l'anaphore « ce dernier » servie à chaque phrase, là où le français répète le nom ou passe par un pronom simple, et le même subordonnant à chaque articulation, qui rend la subordination aussi mécanique que le hachage qu'elle remplace.
+
+### Complément en tête
+
+La même attaque revient aussi sous forme de complément placé en tête, quand une phrase sur deux s'ouvre sur « En s'appuyant sur X, », « Grâce à X, » ou « Dans ce contexte, ». Ramène le sujet et le verbe vers le début, et garde le complément qui pose un temps, un lieu ou une condition réels.
 
 ## Constructions interrogatives et excès du « que »
 
