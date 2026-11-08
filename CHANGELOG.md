@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## [Unreleased]
 
+## [1.4.0] - 2026-11-08
+
 ### Added
 
 - A reversed contrast ("Rather than adding a new tool, it connects the old ones.") and a corrective disclaimer the source never gave, in both languages.
