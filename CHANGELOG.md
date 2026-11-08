@@ -21,6 +21,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 - A text in another variety keeps its idioms, with Indian English named; French now protects Quebec, Belgian, and Swiss usage.
 - Plain habits ("there is," "in order to," a lone "very") and a second-language writer's stiff phrasing aren't tells.
 - A request to get past a detector also gets no broken punctuation.
+- Evals: the French locale case lets the welcome exclamation stay, which its judges read inconsistently.
 
 ## [1.3.1] - 2026-10-23
 
